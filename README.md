@@ -2,7 +2,20 @@
 
 Indexes for the SANS Courses I followed.
 
-To build the index for 508, `./make.sh 508`.
+I used Ubuntu 20.04 but it should work on 22.04.
+
+Run these commands
+sudo apt install pdflatex
+sudo apt install make
+sudo apt-get install texlive-latex-base
+sudo apt install texlive-binaries
+sudo apt install texlive-latex-extra
+
+then cd to the directory with the make.sh file and followed the instructions.
+move the pdf out of the directory or deleted it.
+
+sudo ./make.sh 599 (or whatever number)
+
 
 | Badge | Course | Certification | Index |
 | -- | -- | -- | -- |
