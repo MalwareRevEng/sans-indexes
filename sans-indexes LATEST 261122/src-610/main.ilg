@@ -1,0 +1,104 @@
+This is makeindex, version 2.15 [TeX Live 2019] (kpathsea + Thai support).
+Scanning style file ../lib/std.ist...........done (11 attributes redefined, 0 ignored).
+Scanning input file main.idx...
+!! Input index error (file = main.idx, line = 1):
+   -- Unknown index keyword \comment.
+!! Input index error (file = main.idx, line = 2):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = main.idx, line = 3):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = main.idx, line = 4):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = main.idx, line = 5):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = main.idx, line = 6):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = main.idx, line = 7):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = main.idx, line = 9):
+   -- Unknown index keyword %\indexentry.
+!! Input index error (file = main.idx, line = 10):
+   -- Unknown index keyword %\indexentry.
+.
+!! Input index error (file = main.idx, line = 189):
+   -- Unknown index keyword \comment.
+!! Input index error (file = main.idx, line = 190):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = main.idx, line = 191):
+   -- Missing arguments -- need two (premature LFD).
+
+!! Input index error (file = main.idx, line = 345):
+   -- Extra `|' at position 62 of first argument.
+
+!! Input index error (file = main.idx, line = 349):
+   -- Extra `|' at position 42 of first argument.
+
+!! Input index error (file = main.idx, line = 401):
+   -- Unknown index keyword \comment.
+!! Input index error (file = main.idx, line = 402):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = main.idx, line = 403):
+   -- Missing arguments -- need two (premature LFD).
+
+!! Input index error (file = main.idx, line = 437):
+   -- Extra `!' at position 40 of first argument.
+
+!! Input index error (file = main.idx, line = 492):
+   -- Extra `!' at position 43 of first argument.
+
+!! Input index error (file = main.idx, line = 629):
+   -- Extra `|' at position 52 of first argument.
+
+!! Input index error (file = main.idx, line = 720):
+   -- Unknown index keyword \comment.
+!! Input index error (file = main.idx, line = 721):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = main.idx, line = 722):
+   -- Missing arguments -- need two (premature LFD).
+
+!! Input index error (file = main.idx, line = 751):
+   -- Extra `!' at position 37 of first argument.
+
+!! Input index error (file = main.idx, line = 790):
+   -- Extra `!' at position 33 of first argument.
+
+!! Input index error (file = main.idx, line = 845):
+   -- Extra `!' at position 17 of first argument.
+
+!! Input index error (file = main.idx, line = 863):
+   -- Extra `!' at position 30 of first argument.
+
+!! Input index error (file = main.idx, line = 1019):
+   -- Extra `|' at position 34 of first argument.
+
+!! Input index error (file = main.idx, line = 1033):
+   -- Unknown index keyword \comment.
+!! Input index error (file = main.idx, line = 1034):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = main.idx, line = 1035):
+   -- Missing arguments -- need two (premature LFD).
+.
+!! Input index error (file = main.idx, line = 1250):
+   -- Unknown index keyword \comment.
+!! Input index error (file = main.idx, line = 1251):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = main.idx, line = 1252):
+   -- Missing arguments -- need two (premature LFD).
+
+!! Input index error (file = main.idx, line = 1413):
+   -- Unknown index keyword \comment.
+!! Input index error (file = main.idx, line = 1414):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = main.idx, line = 1415):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = main.idx, line = 1417):
+   -- Unknown index keyword \comment.
+!! Input index error (file = main.idx, line = 1418):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = main.idx, line = 1419):
+   -- Missing arguments -- need two (premature LFD).
+done (1360 entries accepted, 40 rejected).
+Sorting entries..............done (15354 comparisons).
+Generating output file main.ind.....done (2511 lines written, 0 warnings).
+Output written in main.ind.
+Transcript written in main.ilg.

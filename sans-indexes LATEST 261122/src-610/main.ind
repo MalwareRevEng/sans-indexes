@@ -1,0 +1,2511 @@
+\begin{theindex}
+{\centerline{\textbf{\LARGE{Topics}}}}
+\indexspace
+
+  \item & = Concatenate join cells / chars together \dotfill 
+		\book{3}{129}
+  \item /usr/share/remnux/objects.js \dotfill \book{4}{8}
+  \item => Operand
+    \subitem LEA R9=>local_628 - loading the address of local_628 into R9 \dotfill 
+		\book{2}{156}
+  \item [EBP + 0x10]
+    \subitem Indirectly memory addressing \dotfill 
+		\book{2}{156}
+  \item \CurrentVersion\Run Registry Key
+    \subitem Persistence Presence \dotfill \book{1}{43}
+  \item 0x values end of ShellCode \dotfill \book{4}{93}
+  \item 0x30 hex PEB FS:[0x30] list of loaded modules \dotfill 
+		\book{3}{113}
+  \item 0x40 VirtualAllocEx PAGE_EXECUTE_READWRITE \dotfill 
+		\book{4}{138}
+  \item 1768.py \dotfill \book{3}{95}
+  \item \textbf{Function}
+    \subitem AllocateVirtualMemory \dotfill \book{5}{26}, 
+		\book{4}{109}
+    \subitem BlockInput \dotfill \book{5}{76}, \book{5}{92}
+    \subitem CheckRemoteDebuggerPresent \dotfill 
+		\book{5}{12}
+    \subitem CloseClipboard \dotfill \book{2}{144}
+    \subitem CreateMutex \dotfill \book{2}{143}
+    \subitem CreateProcess \dotfill \book{5}{51}, 
+		\book{5}{54}, \book{2}{85}
+    \subitem CreateRemoteThread \dotfill \book{4}{108}, 
+		\book{4}{113}, \book{4}{123}
+    \subitem CreateThread \dotfill \book{4}{109}
+    \subitem CreateToolHelp32Snapshot \dotfill \book{2}{61}, 
+		\book{5}{85}
+    \subitem CreateUserThread \dotfill \book{4}{109}
+    \subitem CryptDecrypt \dotfill \book{4}{90-92}, 
+		\book{1}{99}
+    \subitem CryptEncrypt \dotfill \book{1}{97}
+    \subitem EnumProcesses \dotfill \book{4}{108}
+    \subitem FindResource \dotfill \book{2}{140}
+    \subitem FindWindow \dotfill \book{5}{79}
+    \subitem FindWindows \dotfill \book{5}{92}
+    \subitem GetAsyncKeyState \dotfill \book{2}{144}, 
+		\book{2}{175}
+    \subitem GetClipboardData \dotfill \book{2}{144}
+    \subitem GetCursorPos \dotfill \book{5}{66}
+    \subitem GetForeGroundWindow \dotfill \book{5}{66}
+    \subitem GetKeyState \dotfill \book{2}{144}
+    \subitem GetLocalTime \dotfill \book{5}{13}
+    \subitem GetModuleHandle \dotfill \book{5}{77}, 
+		\book{5}{92}
+    \subitem GetProcAddress \dotfill \book{5}{53}
+    \subitem GetSystemTime \dotfill \book{5}{13}
+    \subitem GetTempFileName \dotfill \book{2}{61}
+    \subitem GetTempPath \dotfill \book{2}{121}
+    \subitem GetTickCount \dotfill \book{5}{13}, 
+		\book{5}{66}
+    \subitem GetWindowText \dotfill \book{2}{144}
+    \subitem HttpAddRequestHeaders \dotfill \book{2}{46}
+    \subitem HttpOpenRequest \dotfill \book{2}{46}
+    \subitem HttpSendRequest \dotfill \book{2}{46}
+    \subitem InternetConnect \dotfill \book{2}{46}
+    \subitem InternetOpen \dotfill \book{2}{46}
+    \subitem InternetOpenA \dotfill \book{2}{47}
+    \subitem InternetReadFile \dotfill \book{2}{46}
+    \subitem IsDebuggerPresent \dotfill \book{5}{6}
+    \subitem KdDebuggerEnabled \dotfill \book{5}{92}
+    \subitem LoadLibrary \dotfill \book{5}{53}, 
+		\book{4}{123}, \book{5}{146}
+    \subitem LoadResource \dotfill \book{2}{140}
+    \subitem LockResource \dotfill \book{2}{140}
+    \subitem OpenClipBoard \dotfill \book{2}{144}
+    \subitem OpenKey \dotfill \book{4}{109}
+    \subitem OpenProcess \dotfill \book{4}{108}, 
+		\book{4}{114}
+    \subitem OutputDebugString \dotfill \book{5}{12}
+    \subitem PINK TAGS \dotfill \book{1}{1}
+    \subitem Process32First \dotfill \book{5}{85}, 
+		\book{4}{108}
+    \subitem Process32Next \dotfill \book{5}{85}, 
+		\book{4}{108}
+    \subitem ProtectVirtualMemory \dotfill \book{5}{26}
+    \subitem QueryInformationProcess \dotfill \book{5}{12}, 
+		\book{5}{38}
+    \subitem QuerySystemInformation \dotfill \book{4}{109}
+    \subitem QuerySystemTime \dotfill \book{5}{13}
+    \subitem ReadFile \dotfill \book{4}{87}, \book{1}{91}
+    \subitem ReadProcessMemory \dotfill \book{4}{127}, 
+		\book{4}{129}
+    \subitem RegOpenKey \dotfill \book{2}{18}, \book{4}{87}, 
+		\book{5}{89}, \book{4}{109}
+    \subitem ResumeThread \dotfill \book{5}{54}
+    \subitem RtlDecompressBuffer \dotfill \book{5}{26}, 
+		\book{5}{29}
+    \subitem SetWindowsHookEx \dotfill \book{5}{67}, 
+		\book{5}{67-70}, \book{5}{70}, 
+		\book{4}{126}
+    \subitem ShellExecute \dotfill \book{2}{154}
+    \subitem SizeofResource \dotfill \book{2}{140}
+    \subitem UnmapViewOfSection \dotfill \book{5}{53, 54}
+    \subitem URLDownloadToFileA \dotfill \book{3}{72}
+    \subitem VirtualAlloc \dotfill \book{5}{52}, 
+		\book{5}{54}, \book{4}{92}, \book{4}{108}
+    \subitem VirtualProtect \dotfill \book{4}{127}
+    \subitem wcsicmp \dotfill \book{2}{106}
+    \subitem WinExec \dotfill \book{3}{72}, \book{3}{156}
+    \subitem WriteProcessMemory \dotfill \book{5}{52}, 
+		\book{5}{54}, \book{4}{108}, \book{4}{116}, 
+		\book{4}{127}
+    \subitem WriteVirtualMemory \dotfill \book{5}{26}, 
+		\book{4}{109}
+  \item \textbf{Instruction}
+    \subitem ORANGE TAGS \dotfill \book{1}{1}
+  \item \textbf{Register}
+    \subitem PURPLE TAGS \dotfill \book{1}{1}
+  \item \textbf{Structure}
+    \subitem EXCEPTION\_REGISTRATION \dotfill \book{2}{179}
+    \subitem KBDLLHOOKSTRUCT \dotfill \book{2}{179}
+    \subitem PROCESS\_INFORMATION \dotfill \book{2}{94}
+    \subitem STARTUPINFOA \dotfill \book{2}{94}
+  \item \textbf{Instruction}
+    \subitem ADD \dotfill \book{2}{38}
+    \subitem AND \dotfill \book{2}{38}, \book{2}{40}
+    \subitem CALL \dotfill \book{2}{21}, \book{2}{39, 40}
+    \subitem CMP \dotfill \book{2}{40, 41}
+    \subitem IMUL \dotfill \book{2}{38}
+    \subitem JA \dotfill \book{2}{41}
+    \subitem JB \dotfill \book{2}{41}, \book{2}{106}
+    \subitem JC \dotfill \book{2}{106}
+    \subitem JCC \dotfill \book{2}{41}
+    \subitem JE \dotfill \book{2}{41}
+    \subitem JG \dotfill \book{2}{41}
+    \subitem JL \dotfill \book{2}{41}
+    \subitem JMP \dotfill \book{2}{23}, \book{2}{40, 41}
+    \subitem JZ \dotfill \book{2}{41}
+    \subitem LEAVE \dotfill \book{2}{83}
+    \subitem LOOP \dotfill \book{2}{39}
+    \subitem LOOPcc \dotfill \book{2}{109}
+    \subitem MOV \dotfill \book{2}{23}, \book{2}{30}, 
+		\book{2}{38}
+    \subitem NOP \dotfill \book{5}{9}
+    \subitem OR \dotfill \book{2}{38}
+    \subitem PUSH \dotfill \book{2}{22}
+    \subitem RDTSC \dotfill \book{5}{13}
+    \subitem RET \dotfill \book{2}{39}, \book{2}{83}
+    \subitem SCASB \dotfill \book{2}{23}
+    \subitem SETZ \dotfill \book{2}{185}
+    \subitem SHL \dotfill \book{2}{38}
+    \subitem SHR \dotfill \book{2}{38}
+    \subitem SUB \dotfill \book{2}{38}, \book{2}{40}
+    \subitem TEST \dotfill \book{2}{40}
+  \item \textbf{Register}
+    \subitem CS code segment \dotfill \book{2}{26}
+    \subitem DS data segment \dotfill \book{2}{26}
+    \subitem EAX add/multi/return value \dotfill 
+		\book{2}{25}
+    \subitem EBP \dotfill \book{2}{67}
+    \subitem EBP reference arguments passed in func \dotfill 
+		\book{2}{25}
+    \subitem EBX generic registers \dotfill \book{2}{25}
+    \subitem ECX counter looping \dotfill \book{2}{25}
+    \subitem EDI memory transfer instructions \dotfill 
+		\book{2}{25}
+    \subitem EDX generic registers \dotfill \book{2}{25}
+    \subitem EIP \dotfill \book{2}{93}
+    \subitem EIP points next instruction to exec \dotfill 
+		\book{2}{26}
+    \subitem ES \dotfill \book{2}{26}
+    \subitem ESI memory transfer instructions \dotfill 
+		\book{2}{25}
+    \subitem ESP point last item on stack \dotfill 
+		\book{2}{25}
+    \subitem FS \dotfill \book{2}{26}
+    \subitem GS \dotfill \book{2}{26}, \book{5}{100}, 
+		\book{5}{127}
+    \subitem RIP \dotfill \book{1}{93}
+    \subitem SS stack segment \dotfill \book{2}{26}
+  \item 64-bit malware
+    \subitem Two types, Browser Helper Objects (BHO) Device Drivers (rootkits) \dotfill 
+		\book{2}{148}
+  \item 64bit Assembly Registers
+    \subitem Whats the difference \dotfill \book{2}{150}
+  \item \blankline \dotfill \newpage\comment{0}
+
+\indexspace
+\indexspace
+{\centerline{\textbf{\LARGE{A}}}}
+\indexspace
+
+  \item ActiveXObject interact with system components \dotfill 
+		\book{4}{9}
+  \item Addressing mode \dotfill \book{2}{23}, \book{2}{32}
+  \item Administrative rights
+    \subitem Admin Privileges always run malware as this. \dotfill 
+		\book{1}{40}
+  \item AMSI Event logging on always Event viewer>ASL>Mic>Anti>Scan_Int \dotfill 
+		\book{3}{141}
+  \item AMSI Example \dotfill \book{4}{10-11}
+  \item AMSI Windows Antimalware Scan Interface examine scripts in Windows VBA XLM PS JS VBS \dotfill 
+		\book{3}{139}
+  \item AMSIScriptContentRetrieval \dotfill \book{3}{140}
+  \item AMSITrace logman start monitoring and save log file \dotfill 
+		\book{3}{140}
+  \item AMSITrace logman stop monitoring \dotfill 
+		\book{3}{140}
+  \item AMSITrace.etl log file \dotfill \book{3}{140}
+  \item Analysis detection \dotfill \book{5}{91}
+  \item Anti-Debugger \dotfill \book{5}{6}
+    \subitem Cloaking Capabilities \dotfill \book{5}{15}
+    \subitem Countermeasure \dotfill \book{5}{15}
+    \subitem ScyllaHide \dotfill \book{5}{15}
+  \item Any.run \dotfill \book{1}{13}
+  \item API \dotfill \book{2}{19}
+  \item API Call
+    \subitem GetLocalTime \dotfill \book{5}{14}
+    \subitem GetSystemTime \dotfill \book{5}{14}
+    \subitem GetTickCount \dotfill \book{5}{14}
+    \subitem NtQuerySystemTime \dotfill \book{5}{14}
+  \item API Hooking Definition \dotfill \book{4}{146}
+  \item API Monitor
+    \subitem Examine API Calls made by processes \dotfill 
+		\book{1}{101}
+  \item Arguments
+    \subitem 32bits PUSH above CALL \dotfill \book{2}{156}
+    \subitem 64bits RCX RDX R8 R9 \dotfill \book{2}{156}
+  \item Arguments passed in registers on the stack \dotfill 
+		\book{2}{156}
+  \item arguments.callee.toString() \dotfill \book{4}{18}
+  \item ASLR \dotfill \book{4}{35}
+    \subitem disable Dynamic base \dotfill \book{5}{54}
+    \subitem Disable per file basis \dotfill \book{4}{36}
+    \subitem Disable prior unpacking analyzing code level analysis \dotfill 
+		\book{4}{35}
+    \subitem DllCharacteristics PE Header \dotfill 
+		\book{4}{36}
+    \subitem DynamicBase Flag \dotfill \book{4}{36}
+    \subitem ImageBase Field Virtual Memory Address executable perfer loaded \dotfill 
+		\book{4}{35}
+    \subitem PE Header file relocation section translate mem addresses \dotfill 
+		\book{4}{35}
+    \subitem rebasing \dotfill \book{4}{36}
+    \subitem setdllcharacteristics -d disable DynamicBase \dotfill 
+		\book{4}{36}
+  \item Assembly Instructions
+    \subitem (64bit) SUB
+      \subsubitem SUB RSP, 0x658, start of prologue, makes room on stack for local variables \dotfill 
+		\book{2}{156}
+    \subitem ADD (MSB)
+      \subsubitem MSB, Most significant bit, unsigned/signed binary math \dotfill 
+		\book{2}{182}
+    \subitem ADD interpretations
+      \subsubitem How it works in detail \dotfill 
+		\book{2}{183}
+    \subitem Branching and Conditionals
+      \subsubitem JMP, CALL, CMP, TEST \dotfill 
+		\book{2}{38}
+    \subitem Data Manipulation
+      \subsubitem Arithmetic (ADD,SUB,IMUL) Boolean (AND,OR) Bit Manipulation (SHR,SHL) \dotfill 
+		\book{2}{38}
+    \subitem Data Transfer
+      \subsubitem PUSH,/POP, MOV, XCHG, LEA \dotfill 
+		\book{2}{38}
+    \subitem Example
+      \subsubitem PUSH, MOVE, TEST Column{2} \dotfill 13
+    \subitem Three Categories, data manipulation, data transfer, branching and conditional \dotfill 
+		\book{2}{38}
+  \item Automated analysis \dotfill \book{1}{13}
+  \item Avast Antivirus \dotfill \book{5}{80}
+  \item AVCaesar \dotfill \book{1}{13}
+  \item avghookx.dll \dotfill \book{5}{76}
+
+\indexspace
+\indexspace
+{\centerline{\textbf{\LARGE{B}}}}
+\indexspace
+
+  \item Balbuzard toolkit \dotfill \book{5}{18}
+  \item base64dump.py \dotfill \book{3}{88}
+    \subitem -a view contents of string \dotfill 
+		\book{3}{88}
+    \subitem -d parameter dump decoded string \dotfill 
+		\book{3}{90}
+    \subitem -n 10 only consider strings 10 bytes long \dotfill 
+		\book{3}{90}
+    \subitem -s parameter select string \dotfill 
+		\book{3}{90}
+    \subitem -s select string \dotfill \book{3}{88}
+    \subitem -t utf16 convert to UTF-16 \dotfill 
+		\book{3}{89}
+    \subitem . right side output Unicode UTF-16 char two bytes \dotfill 
+		\book{3}{88}
+    \subitem gunzip process \dotfill \book{3}{90}
+    \subitem scans code for base64 \dotfill \book{3}{90}
+  \item base64dump.py -s select ID -d Dump contents to file \dotfill 
+		\book{4}{90}
+  \item bbcrack.py auto identify patterns decode alg XOR ROL ADD crackguess \dotfill 
+		\book{5}{19}
+  \item Beaconing
+    \subitem Brief periodic messages to the adversary \dotfill 
+		\book{1}{17}
+  \item Behavioral Analysis
+    \subitem ProcMon, ProcHack, RegShot, fakeDNS \dotfill 
+		\book{1}{34}
+  \item BeingDebugged (flag) \dotfill \book{5}{12}
+  \item Binary Ninja \dotfill \book{2}{6}
+    \subitem Disassembler strong automated analysis \dotfill 
+		\book{1}{80}
+  \item 64-bits \dotfill \book{2}{150}
+  \item BlockInput \dotfill \book{5}{74}
+  \item Botnet C2 - Large number of infected hosts connecting to webserver \dotfill 
+		\book{1}{117}
+  \item box.js automatically decode \dotfill \book{4}{18}
+  \item BP \dotfill \book{1}{92}
+  \item BPX \dotfill \book{1}{92}
+  \item Branch Instructions
+    \subitem Direct code execution to another location  \dotfill 
+		\book{2}{39}
+  \item Branching
+    \subitem Conditional and Unconditional Jumps
+      \subsubitem CALL, RET and Looping \dotfill 
+		\book{2}{39}
+  \item Break statements \dotfill \book{2}{130}
+  \item Breakpoint
+    \subitem Hardware \dotfill \book{5}{106}
+    \subitem hardware \dotfill \book{5}{121}
+    \subitem SingleShoot \dotfill \book{5}{159}
+    \subitem VirtualProtect \dotfill \book{5}{152}
+  \item Browser Helper Objects (BHOs)
+    \subitem Internet Explorer (64bit) wont load 32bit vice verse \dotfill 
+		\book{2}{148}
+  \item Browser-specific scripts \dotfill \book{4}{6}
+  \item brutexor.py \dotfill \book{5}{18}
+  \item brxor.py \dotfill \book{5}{18}
+  \item Burp
+    \subitem Network Sniffer and Web Proxy \dotfill 
+		\book{3}{19}
+  \item Byte 8bits \dotfill \book{2}{28}
+
+\indexspace
+\indexspace
+{\centerline{\textbf{\LARGE{C}}}}
+\indexspace
+
+  \item CALL E8 Instruction \dotfill \book{3}{112}
+  \item Calling convention
+    \subitem cdecl
+      \subsubitem Args passed to function pushed onto stack right to left. Return value is in EAX register, code block calls function to clean up ie printf() \dotfill 
+		\book{2}{72}
+      \subsubitem how it works \dotfill \book{2}{74}
+    \subitem fastcall
+      \subsubitem Args stored in registers, extra Args placed in stack, callee responsible cleaning stack, return value is EAX. ECX and EDX pass args \dotfill 
+		\book{2}{73}
+      \subsubitem how it works \dotfill \book{2}{75}
+    \subitem how data gets in and out of functions, code block calls function and performing housekeeping \dotfill 
+		\book{2}{72}
+    \subitem stdcall
+      \subsubitem Calling functions in WIN32 API, function itself responsible removing args pass in stack, smaller code size. \dotfill 
+		\book{2}{72}
+      \subsubitem how it works \dotfill \book{2}{74}
+    \subitem thiscall
+      \subsubitem how it works \dotfill \book{2}{75}
+      \subsubitem includes reference this pointer, Microsoft ECX holds this pointer and callee cleans args on stack, GNU this pointer pushed to stack last and caller cleans \dotfill 
+		\book{2}{73}
+  \item Capa
+    \subitem Focuses on automatic identify capabilities - uses ATT&CK and MBC \dotfill 
+		\book{1}{86}
+    \subitem report \dotfill \book{1}{87}
+  \item capa
+    \subitem -vv parameter verbose \dotfill \book{5}{46}
+    \subitem CreateProcess \dotfill \book{5}{46}
+  \item CAPE \dotfill \book{1}{13}
+  \item Capstone \dotfill \book{2}{6}
+  \item cat examine contents of files \dotfill 
+		\book{3}{118}
+  \item cat read contents of file \dotfill \book{4}{88}
+  \item Censys \dotfill \book{1}{13}
+  \item CFF Explorer \dotfill \book{4}{36}
+    \subitem Nt Headers \dotfill \book{4}{36}
+  \item CFF Explorer - Static analyzer extract files
+    \subitem extract file and code analysis \dotfill 
+		\book{2}{145}
+  \item Cobalt Strike \dotfill \book{3}{95}
+  \item Code analysis
+    \subitem Dynamic \dotfill \book{1}{81}
+    \subitem Ghidra, windbg OllyDumb, Scylla \dotfill 
+		\book{1}{34}
+    \subitem Static \dotfill \book{1}{81}
+  \item Code Analysis - Imports, Strings, Functions \dotfill 
+		\book{2}{162}
+  \item Code Injection Techniques and Why \dotfill 
+		\book{4}{126}
+  \item Code lifecycle
+    \subitem Compiler \dotfill \book{2}{5}
+    \subitem Executable File \dotfill \book{2}{5}
+    \subitem Linker \dotfill \book{2}{5}
+    \subitem Loader \dotfill \book{2}{5}
+    \subitem Object Code \dotfill \book{2}{5}
+    \subitem Source, Compiler, ObjCode, Linker, Libraries, File, Loader \dotfill 
+		\book{2}{5}
+  \item Command and control (C2) \dotfill \book{1}{17}
+  \item Compiler \dotfill \book{2}{5}
+  \item Compound (complex) Expressions
+    \subitem multiple conditions \dotfill \book{2}{123}
+  \item Concatenate & join cells together  \dotfill 
+		\book{3}{129}
+  \item Core Malware Analysis Techniques \dotfill 
+		\book{1}{6}
+  \item CREATE_SUSPENDED - dwCreationFlags \dotfill 
+		\book{5}{49}
+  \item CreateThread creates CPU thread and launches variable shellcode \dotfill 
+		\book{4}{92}
+  \item CScript advantage auto supply script OS objects \dotfill 
+		\book{4}{12}
+  \item CScript natively supports eval \dotfill 
+		\book{4}{12}
+  \item CScript uses WScript.Echo to display \dotfill 
+		\book{4}{12}
+  \item CScript Windows script interpreter \dotfill 
+		\book{4}{7}
+  \item curl
+    \subitem ~/.curlrc
+      \subsubitem curl config files to spoof HTTP headers \dotfill 
+		\book{3}{19}
+    \subitem same as wget, used to download files using CLI \dotfill 
+		\book{3}{19}
+  \item CurrentVersion/Run \dotfill \book{1}{44}
+  \item Cutter \dotfill \book{2}{6}
+    \subitem Code Analysis Toolkit \dotfill \book{1}{80}
+  \item CyberChef
+    \subitem Decoding, deobfuscating, decrypting data \dotfill 
+		\book{1}{104}
+    \subitem Output \dotfill \book{1}{104}
+    \subitem Recipe \dotfill \book{1}{104}
+    \subitem XOR
+      \subsubitem How to use XOR key to decode \dotfill 
+		\book{1}{106}
+
+\indexspace
+\indexspace
+{\centerline{\textbf{\LARGE{D}}}}
+\indexspace
+
+  \item Data Sizes
+    \subitem byte/word/dword/qword
+      \subsubitem 8bit/16bit/32bit/64bit - Assembly Instructions (dword)  \dotfill 
+		\book{2}{28}
+  \item Data Structure
+    \subitem representation of information, access and manipulate that representation \dotfill 
+		\book{2}{34}
+  \item Data Structure - Common Examples
+    \subitem Strings, linked lists, network sockets, file handles, arrays \dotfill 
+		\book{2}{34}
+  \item Debugger \dotfill \book{1}{81}
+    \subitem Detection \dotfill \book{5}{78}
+  \item Debugger Process \dotfill \book{4}{46}
+  \item Decompiler vs Dissassembly \dotfill \book{2}{159}
+  \item Decompiling
+    \subitem Generate approx original program source code \dotfill 
+		\book{1}{81}
+  \item Deep Freeze
+    \subitem Physical Snapshot/backup \dotfill \book{1}{33}
+  \item Dereferencing
+    \subitem Pointer Access
+      \subsubitem Address the pointer points is accessed \dotfill 
+		\book{2}{29}
+  \item destination 00000000 offset jump 0 bytes \dotfill 
+		\book{3}{112}
+  \item Detect It Easy (DIE) \dotfill \book{1}{48}
+  \item Device Drivers (rootkits)
+    \subitem Digitally signed trusted cert, TDL bypass \dotfill 
+		\book{2}{148}
+  \item Digital Fingerprints
+    \subitem hash values example \dotfill \book{1}{46}
+  \item Direct Addressing
+    \subitem Address is specified in a Operand \dotfill 
+		\book{2}{31}
+  \item Disassemblers and Debuggers
+    \subitem Ghidra, IDA, Windbg, Cutter, Binary Ninja, Hopper \dotfill 
+		\book{1}{80}
+  \item Disassembling
+    \subitem Translating binary machine instructions to human language code \dotfill 
+		\book{1}{81}
+  \item Disk Cloning \dotfill \book{1}{33}
+    \subitem Clonezilla \dotfill \book{1}{33}
+    \subitem dd \dotfill \book{1}{33}
+    \subitem Fog \dotfill \book{1}{33}
+  \item DLL \dotfill \book{1}{14}, \book{2}{137}
+    \subitem how it works
+      \subsubitem library to help share code with multiple programs, export functions, need EXE to load, etc \dotfill 
+		\book{2}{137}
+  \item DLL needs EXE to load it into memory exports functions share code with multiple programs \dotfill 
+		\book{2}{137}
+  \item DllRegisterServer run a Windows DLL \dotfill 
+		\book{3}{138}
+  \item DNS \dotfill \book{2}{45}, \book{1}{66}
+  \item DNS leakage
+    \subitem Observing source DNS queries to malicious domain \dotfill 
+		\book{1}{19}
+  \item document.body.appendChild \dotfill \book{4}{6}
+  \item document.parentNode.insertBefore \dotfill 
+		\book{4}{6}
+  \item document.write \dotfill \book{4}{6}
+  \item DownloadFile inseng.dll exports funtions lesser alternative \dotfill 
+		\book{3}{138}
+  \item Dropper \dotfill \book{2}{140}
+  \item dwCreationFlags \dotfill \book{5}{49}
+  \item Dword 32bits \dotfill \book{2}{28}
+  \item Dyre \dotfill \book{5}{64}
+
+\indexspace
+\indexspace
+{\centerline{\textbf{\LARGE{E}}}}
+\indexspace
+
+  \item EA \goto Effective Address \dotfill \comment{0}
+  \item EBP Frame Pointer -8 access local var +8 reference parameter \dotfill 
+		\book{2}{68}
+  \item Effective Address (EA)
+    \subitem Calculated Address or resides in register \dotfill 
+		\book{2}{32}
+  \item EFLAGS \dotfill \book{2}{26}
+  \item EIP 32bit \dotfill \book{1}{93}
+  \item EIP Register stores address of instruction execute next \dotfill 
+		\book{3}{112}
+  \item Emulators
+    \subitem binee \dotfill \book{1}{82}
+    \subitem Capa \dotfill \book{1}{82}
+    \subitem Imitates behavior CPU, OS, runtime components, preview actions \dotfill 
+		\book{1}{82}
+    \subitem Qiling \dotfill \book{1}{82}
+    \subitem Speakeasy run_speakeasy.py -t filename.exe -o speakeasy.json2> speakeasy.txt \dotfill 
+		\book{1}{82}
+    \subitem Vivsect \dotfill \book{1}{82}
+  \item Emulators - INetSim
+    \subitem Emulate HTTPS, SMTP,FTP,POP3,TFTP,IRC \dotfill 
+		\book{1}{119}
+  \item encoded.hex \dotfill \book{1}{75}
+  \item Entry Point
+    \subitem Original \dotfill \book{5}{104}
+  \item Enviroment variable appdata
+    \subitem users profile directory \dotfill \book{1}{38}
+  \item Equation Editor 3.0 \dotfill \book{3}{104}
+  \item ESP Stack Pointer register top of stack Push Pop \dotfill 
+		\book{2}{68}
+  \item eval deobfuscation process \dotfill \book{4}{6}
+  \item evilclippy doc pass removal \dotfill \book{3}{72}
+  \item exceptions error conditions code usually handle \dotfill 
+		\book{5}{29}
+  \item Executable File \dotfill \book{2}{5}
+  \item Exeinfo PE \dotfill \book{5}{95}
+    \subitem Tools used to generate exe \dotfill 
+		\book{1}{48}
+  \item Exercise 2.3
+    \subitem How many Arguments \dotfill \book{2}{80-81}
+    \subitem How many Arguments and Local Variables \dotfill 
+		\book{2}{89}
+    \subitem How many Local Variables \dotfill \book{2}{82}
+    \subitem How many Locations \dotfill \book{2}{80}, 
+		\book{2}{88}
+    \subitem Knowledge of Functions
+      \subsubitem Locations of functions, number of args, number of local vars, instructions comprise pro/epi, calling convention used \dotfill 
+		\book{2}{79}
+    \subitem What calling convention does FUN_4064c8 uses (cdecl) \dotfill 
+		\book{2}{85}
+    \subitem Which instruction comprises the epilogue(LEAVE,RET) \dotfill 
+		\book{2}{84}
+    \subitem Which instruction comprises the epilogue(POP,POP,MOV,POP,LEAVE,RET) \dotfill 
+		\book{2}{91}
+    \subitem Which instruction comprises the prologue(PUSH,MOV,SUB) \dotfill 
+		\book{2}{83}
+    \subitem Which instruction comprises the prologue(PUSH,MOV,SUB,PUSH,PUSH,PUSH) \dotfill 
+		\book{2}{90}
+  \item Exercise 2.5
+    \subitem Loop analysis
+      \subsubitem assess stopping condition(CMP, JC) \dotfill 
+		\book{2}{116}
+      \subsubitem control variable before stopping condition(ADD instruction) \dotfill 
+		\book{2}{117}
+      \subsubitem control variable before the loop (XOR ESI,ESI \dotfill 
+		\book{2}{118}
+      \subsubitem decompiler output \dotfill \book{2}{120}
+      \subsubitem loop body by the stopping condition \dotfill 
+		\book{2}{119}
+  \item Exercise 2.8
+    \subitem 64bit DLL Ghidra
+      \subsubitem ShellExecuteW, SUB RSP, 0x658 start of code block, LEA places pointers  \dotfill 
+		\book{2}{156}
+  \item Exercise 3.4
+    \subitem oledump 791+62
+      \subsubitem Size os compiled code and size of compressed code \dotfill 
+		\book{3}{45}
+    \subitem oledump Concealed,obfuscated URL inside Dim array1(12) 12 lines \dotfill 
+		\book{3}{48}
+    \subitem oledump grep
+      \subsubitem Extracts lines that start with a keyword in " \dotfill 
+		\book{3}{49}
+    \subitem oledump Macro decoded using strings
+      \subsubitem Function DU(yI) array1 = Xf book{3} \dotfill 
+		50
+    \subitem oledump nh = Split(Replace(pn(array1), Fw, "), zM)book{3} \dotfill 
+		50
+    \subitem oledump numbers-to-string.py -j join \dotfill 
+		\book{3}{57}
+    \subitem oledump OLE2
+      \subsubitem examining structure and contents of OLE2 files \dotfill 
+		\book{3}{45}
+    \subitem oledump particulars.doc -i
+      \subsubitem examine contents OLE2 in particulars.doc \dotfill 
+		\book{3}{45}
+    \subitem oledump particulars.doc -s a -v pipe grep -v ^' pipe more
+      \subsubitem -v to grep eliminate lines that match regex. ^ is start of line and matches ''  \dotfill 
+		\book{3}{47}
+    \subitem oledump particulars.doc -s a -v pipe more
+      \subsubitem -s a Extracts VBA Macros from ALL streams \dotfill 
+		\book{3}{46}
+    \subitem oledump Public Const zM As String = -----book{3} \dotfill 
+		50
+    \subitem oledump re-search.py -n str-u\
+      \subsubitem Extracts strings within the " \dotfill 
+		\book{3}{49}
+    \subitem oledump regsvr32
+      \subsubitem Function U5 Macro \dotfill \book{3}{52}
+    \subitem oledump sed ss/====//g!Remove ==== separators \dotfill 
+		\book{3}{49}
+    \subitem oledump sets.py join " \
+      \subsubitem Join lines into a single line \dotfill 
+		\book{3}{49}
+    \subitem oledump StrReverse
+      \subsubitem Function U5 Macro \dotfill \book{3}{52}
+    \subitem oledump Uppercase M
+      \subsubitem means Macro inside that object \dotfill 
+		\book{3}{45}
+  \item Exfiltration
+    \subitem Stolen data keystroke logs \dotfill 
+		\book{1}{17}
+  \item exiftool
+    \subitem extracts metadata and can include other details about the document \dotfill 
+		\book{3}{53}
+  \item Exploit Kit
+    \subitem automate exploit of client side vulns \dotfill 
+		\book{3}{19}
+  \item Exploit What Is \dotfill \book{3}{105}
+  \item Exploring Network Interactions \dotfill 
+		\book{1}{111}
+  \item Expressions
+    \subitem < less than
+      \subsubitem if ( a < 4 ) = if a is less than 4 (JNL jump if not less than) \dotfill 
+		\book{2}{124}
+    \subitem > greater than
+      \subsubitem ( a > 1 ) if a is greater than 1 (JNG jump if greater than) \dotfill 
+		\book{2}{124}
+    \subitem Compound Expression (AND)
+      \subsubitem if ( a < 4 ) && ( a > 1 ) = if a is less than 4 AND greater than 1 \dotfill 
+		\book{2}{124}
+  \item extractscripts.py auto extract JS from webpages \dotfill 
+		\book{4}{7}
+
+\indexspace
+\indexspace
+{\centerline{\textbf{\LARGE{F}}}}
+\indexspace
+
+  \item FakeDNS \dotfill \book{1}{118}
+  \item fakedns
+    \subitem listen and automatic respond all host DNS queries UDP 53  \dotfill 
+		\book{1}{67}
+  \item feh
+    \subitem image1.jpg & \dotfill \book{3}{41}
+  \item feh Image Viewer \dotfill \book{3}{14}
+  \item Fiddler
+    \subitem Expect-CT Response
+      \subsubitem Common CloudFlare Websites minimize risk of misused SSL certificates \dotfill 
+		\book{3}{22}
+    \subitem Extract Artifacts \dotfill \book{3}{23}
+    \subitem HTTP Intercept, capture HTTPS, Decrypt HTTPS, AutoResponder, Enable rules. \dotfill 
+		\book{1}{123}
+    \subitem Network Sniffer and Web Proxy \dotfill 
+		\book{3}{19}
+    \subitem Request \dotfill \book{3}{23}
+    \subitem Response raw tab
+      \subsubitem example \dotfill \book{3}{22}
+    \subitem steel.saz file types
+      \subsubitem saz file types is a Fiddler capture file \dotfill 
+		\book{3}{20}
+  \item file \dotfill \book{3}{39}
+  \item File Sections
+    \subitem grouping of code and data, .text .data .rsrc .reloc \dotfill 
+		\book{1}{46}
+  \item file see format of files \dotfill \book{3}{118}
+  \item FindRes, LoadRes, SizeRes, LockRes, WriteFil, CreateProcess - Dropper \dotfill 
+		\book{2}{140}
+  \item FindWindow function \dotfill \book{5}{77}
+  \item FLOSS \dotfill \book{5}{25}
+    \subitem -no-static-strings parameter regular non-obf strings \dotfill 
+		\book{5}{26}
+    \subitem -x parameter address function handle deobf \dotfill 
+		\book{5}{26}
+  \item FLOSS emulate execution deobf strings decode stack strings \dotfill 
+		\book{5}{25}
+  \item fn callback function
+    \subitem nCode, wParam, lParam, WM-KEYDOWN,UP,SYSKEYDOWN,UP \dotfill 
+		\book{2}{179}
+  \item format-bytes.py \dotfill \book{3}{107}
+    \subitem -f parameter name-eqn1 \dotfill \book{3}{107}
+  \item Frame-Based Handling \dotfill \book{5}{98}
+  \item FS Register address data structure TIB \dotfill 
+		\book{3}{113}
+  \item FS:[0] \dotfill \book{5}{98}
+  \item FS:[30h] \dotfill \book{5}{12}
+  \item Function
+    \subitem Calling
+      \subsubitem branch (jump to another location), executing CPU processes instructions \dotfill 
+		\book{2}{65}
+    \subitem Calling Control Transfers
+      \subsubitem Calling Function (Pass in parameters, save return pointer, transfer control function) \dotfill 
+		\book{2}{66}
+    \subitem Epilogue
+      \subsubitem Epilogue (cleans up stack eg POP variables, restores registers) \dotfill 
+		\book{2}{67}
+    \subitem Hot patching
+      \subsubitem 2byte MOV EDI, EDI NOP instruction - without need to stop and restart the program \dotfill 
+		\book{2}{67}
+    \subitem Hot Patching - ShortLong Jumping
+      \subsubitem 2-byte relative jump transfers control to another jump anywhere in memory, 5-byte long jump is 5 NOP instructions \dotfill 
+		\book{2}{67}
+    \subitem Prologue
+      \subsubitem Prologue (allocates space for variables, saves registers reused in function body) (MOV EDI, EDI - NOP instruction) \dotfill 
+		\book{2}{67}
+    \subitem Returning Control Transfers
+      \subsubitem Returning Function (Set return value EAX, clean stack restore registers, transfer control saved return pointer) \dotfill 
+		\book{2}{66}
+  \item function call interfere with debugging of script \dotfill 
+		\book{4}{11}
+  \item Function Execution Top to Bottom{2} \dotfill 13
+  \item Functions
+    \subitem group of instructions/code that performs a tasks, send data, log keystrokes, r/w files \dotfill 
+		\book{2}{65}
+    \subitem Three components
+      \subsubitem Input passed into function from caller, body of function code perform task, value returned from function \dotfill 
+		\book{2}{65}
+
+\indexspace
+\indexspace
+{\centerline{\textbf{\LARGE{G}}}}
+\indexspace
+
+  \item GetEIP CALL POP \dotfill \book{3}{112}
+  \item GetEIP CALL saves EIP value to stack, POP EAX places stack value in EAX \dotfill 
+		\book{3}{112}
+  \item GetFileSize file handle scanning \dotfill 
+		\book{3}{114}
+  \item GetModuleHandle function to locate DLLs \dotfill 
+		\book{5}{76}
+  \item GetProcAddress
+    \subitem hModule, lpProcName \dotfill \book{5}{51}
+  \item Ghidra
+    \subitem => operand
+      \subsubitem LEA R9=>local_628 - loading the address of local_628 into R9 \dotfill 
+		\book{2}{156}
+    \subitem Apply Function Data Types \dotfill 
+		\book{2}{48}
+    \subitem Bad instruction \dotfill \book{5}{118}
+    \subitem Browser Field Formatter
+      \subsubitem Resizing fields, Field Categories, Field Controllers \dotfill 
+		\book{2}{15}
+    \subitem Bytes to ASCII
+      \subsubitem 00 bytes between each character means Unicode String \dotfill 
+		\book{2}{63}
+    \subitem Calls are wrapped in Libraries (DLLs) \dotfill 
+		\book{2}{19}
+    \subitem Convert \dotfill \book{5}{22}
+    \subitem Create Project \dotfill \book{2}{8}
+    \subitem Data / String
+      \subsubitem lpszVerb-00413d8c pointer to a string right click, data, string \dotfill 
+		\book{2}{49}
+    \subitem Data Convert \dotfill \book{2}{49}
+    \subitem Data Structure
+      \subsubitem individual elements called members \dotfill 
+		\book{2}{94}
+    \subitem Data Type \dotfill \book{2}{47}
+    \subitem Defined Strings \dotfill \book{2}{103}
+      \subsubitem locate reference to string \dotfill 
+		\book{2}{105}
+      \subsubitem reveals filenames and directories of interest \dotfill 
+		\book{2}{104}
+    \subitem Defined Strings - show references
+      \subsubitem Right Click on Label (Application_00413e34) References - Show References  \dotfill 
+		\book{2}{103}
+    \subitem Disassembler and decompiler \dotfill 
+		\book{1}{80}
+    \subitem et Equate
+      \subsubitem Text representation of a numerical value \dotfill 
+		\book{2}{36}
+    \subitem Exports Symbol Tree
+      \subsubitem Exports Entry points into the program \dotfill 
+		\book{2}{16}
+    \subitem File Structure .data
+      \subsubitem Contains data \dotfill \book{2}{12}
+    \subitem File Structure .rdata
+      \subsubitem Contains read-only data \dotfill 
+		\book{2}{12}
+    \subitem File Structure .reloc
+      \subsubitem Contains relocation data fix addresses \dotfill 
+		\book{2}{12}
+    \subitem File Structure .text
+      \subsubitem Contains executable code \dotfill 
+		\book{2}{12}
+    \subitem Function Call HTTP C2 APIs
+      \subsubitem Outgoing Call of the same Windows API \dotfill 
+		\book{2}{56}
+    \subitem Function Graph
+      \subsubitem blue arrow code block ends uncondition jump \dotfill 
+		\book{2}{14}
+      \subsubitem green arrows condition met \dotfill 
+		\book{2}{14}
+      \subsubitem red arrows condition not met \dotfill 
+		\book{2}{14}
+      \subsubitem Visualizing loops, complex conditionals within functions.  \dotfill 
+		\book{2}{14}
+    \subitem Function Graph - Red/Green Arrow
+      \subsubitem Red Arrow = Unsuccessful (FALSE), Green Arrow = Successful (TRUE) \dotfill 
+		\book{2}{53}
+    \subitem Function Size
+      \subsubitem Number of bytes comprise the function, more work to reverse \dotfill 
+		\book{2}{58}
+    \subitem Headers \dotfill \book{2}{12}
+    \subitem Import Address Table
+      \subsubitem APIs (functions) used by the program contained in external DLLs \dotfill 
+		\book{2}{17}
+    \subitem Imports Symbol Tree
+      \subsubitem Imports Program dependencies \dotfill 
+		\book{2}{16}
+    \subitem Interpret Arguments
+      \subsubitem Double click lpPrefixString_00413d04 - right click DAT label, data, TerminatedUnicode \dotfill 
+		\book{2}{63}
+    \subitem JC Jump if carry - Table of Strings (Loop)
+      \subsubitem ADD ESI, 0x4 - 4 bytes, CMP ESI, 0x38 - 56 bytes (total number of strings in table 4 bytes per one) \dotfill 
+		\book{2}{106}
+    \subitem Key binding \dotfill \book{5}{23}
+    \subitem Local Variable Conflict \dotfill \book{2}{94}
+    \subitem local_628 decompiler
+      \subsubitem Use decompiler if possible to assist \dotfill 
+		\book{2}{159}
+    \subitem OneShot
+      \subsubitem Propagate External Parameters \dotfill 
+		\book{2}{48}
+    \subitem Parse C Source
+      \subsubitem Resolving Symbolic Constants that Ghidra is unsure of \dotfill 
+		\book{2}{49}
+    \subitem Process Information Structure
+      \subsubitem similar to Data Structure \dotfill 
+		\book{2}{94}
+    \subitem Program Tree \dotfill \book{2}{12}
+    \subitem Project Analysis \dotfill \book{2}{10}
+    \subitem Propagate External Parameters
+      \subsubitem Data Type Manager - Apply Function Data Types, One Shot \dotfill 
+		\book{2}{48}
+    \subitem Renaming Functions
+      \subsubitem Right click Function - Edit Label \dotfill 
+		\book{2}{57}
+    \subitem Sections \dotfill \book{2}{12}
+    \subitem Set Comments
+      \subsubitem Click line and press semicolon \dotfill 
+		\book{2}{44}
+    \subitem Static Code Analysis Tool NSA \dotfill 
+		\book{2}{6}
+    \subitem Strings - Group with a Loop
+      \subsubitem dword ptr [ESI + PTR_u_Windows_00418cd8] ESI 0 = Windows, ESI 4 = Boot, ESI 8 = System. Table of Strings  \dotfill 
+		\book{2}{106}
+    \subitem Symbol References - IOC API calls
+      \subsubitem Example, Registry API Calls for persistence \dotfill 
+		\book{2}{18}
+    \subitem Symbol References Menu
+      \subsubitem List of API (functions) \dotfill 
+		\book{2}{17}
+    \subitem System Calls same as API Calls \dotfill 
+		\book{2}{19}
+    \subitem TLS \dotfill \book{5}{116}
+    \subitem Windows API (CreateMutexA) \dotfill 
+		\book{2}{143}
+    \subitem Windows API (Find/Size/Lock Resource)
+      \subsubitem Nearby calls to WriteFile/CreateProcess, malware extracts resource writes to disk \dotfill 
+		\book{2}{140}
+    \subitem Windows API (KeyState, WindowText,Clipboard)
+      \subsubitem malware collecting information and keylogging \dotfill 
+		\book{2}{144}
+    \subitem XREF
+      \subsubitem Same as right click Reference and Show References \dotfill 
+		\book{2}{106}
+  \item Ghidra - CALL instruction
+    \subitem Performs a function call \dotfill \book{2}{21}
+  \item Global Descriptor Table (GDT) \dotfill 
+		\book{5}{126}
+  \item grep
+    \subitem  -v :DollarSign colon end of line \dotfill 
+		\book{3}{66}
+    \subitem  -v ^goto remove lines start goto \dotfill 
+		\book{3}{66}
+
+\indexspace
+\indexspace
+{\centerline{\textbf{\LARGE{H}}}}
+\indexspace
+
+  \item Handle \dotfill \book{1}{83}
+  \item Handle -0x1 Special handle to read current process \dotfill 
+		\book{4}{148}
+  \item Hard-coded IP
+    \subitem set-static-ip ipaddress of malware \dotfill 
+		\book{1}{125}
+  \item HashSets \dotfill \book{1}{13}
+  \item Hex to ASCII Tool
+    \subitem xxd -r -p filename.hex \dotfill \book{1}{73}
+  \item Hextostring \dotfill \book{3}{67}
+  \item HKCU\Software\Classes Windows execute with specific file extension \dotfill 
+		\book{4}{7}
+  \item Honeypot \dotfill \book{1}{20}
+  \item Hooking
+    \subitem API Calls ReadProcessMemory Read first bytes Trampoline \dotfill 
+		\book{4}{146}
+    \subitem API Calls VirtualProtect modify permissions make writable \dotfill 
+		\book{4}{146}
+    \subitem API Calls WriteProcessMemory JMP 0xE9 PUSH 0x68 RET 0xC3 JMP \dotfill 
+		\book{4}{146}
+    \subitem Call table hooks \dotfill \book{4}{143}
+    \subitem Call table hooks IDT Interrupt Descriptor Table \dotfill 
+		\book{4}{143}
+    \subitem Call table hooks Import/Export Tables \dotfill 
+		\book{4}{143}
+    \subitem Call table hooks IRP I/O Request Packet \dotfill 
+		\book{4}{143}
+    \subitem Call table hooks SSDT System Service Descriptor Table \dotfill 
+		\book{4}{143}
+    \subitem Call table hooks vftable Virtual Function Table \dotfill 
+		\book{4}{143}
+    \subitem GUI hooks \dotfill \book{4}{143}
+    \subitem GUI hooks driver layering/filtering \dotfill 
+		\book{4}{143}
+    \subitem GUI hooks minidrivers \dotfill \book{4}{143}
+    \subitem GUI hooks SetWindowsHookEx API Call \dotfill 
+		\book{4}{143}
+    \subitem Inline User-mode Definition patch target function memory \dotfill 
+		\book{4}{143}
+  \item Hooking Definition and Process - Intercepting Exec compiled \dotfill 
+		\book{4}{143}
+  \item Hopper \dotfill \book{2}{6}
+    \subitem Disassembler and Decompiler \dotfill 
+		\book{1}{80}
+  \item hProcess parameter handle points process program create new thread \dotfill 
+		\book{4}{132}
+  \item HTTP Command and Control
+    \subitem Most common - HTTP libraries transition between plaintext HTTP and encrypted HTTPS \dotfill 
+		\book{2}{45}
+  \item HTTP Command and Control Windows API
+    \subitem InternetOpen, InternetConnect, HttpOpenRequest, HttpAddRequestHeaders, HttpSendRequest, InternetReadFile. \dotfill 
+		\book{2}{46}
+  \item httpd
+    \subitem http request \dotfill \book{1}{72}
+    \subitem Web server NGINX  \dotfill \book{1}{71}
+  \item Hybrid Analysis \dotfill \book{1}{13}, \book{1}{15}
+
+\indexspace
+\indexspace
+{\centerline{\textbf{\LARGE{I}}}}
+\indexspace
+
+  \item ICP IP, Hostname, Encoded Hex \dotfill \book{1}{73}
+  \item IDA \dotfill \book{2}{6}
+    \subitem Disassembler with built-in debugger \dotfill 
+		\book{1}{80}
+  \item If-Else \dotfill \book{2}{99-100}
+  \item If-ElseIf-Else \dotfill \book{2}{101-102}
+  \item If-ElseIf-Else Statements (Switch)
+    \subitem Nested. Switch statements are the same but different Syntax \dotfill 
+		\book{2}{101-102}
+  \item Import Address Table (IAT) \dotfill \book{5}{163}
+  \item Imports
+    \subitem DLL libraries required for execution \dotfill 
+		\book{1}{46}
+  \item Indicator of Compromise (IOC) \dotfill \book{1}{17}, 
+		\book{1}{44}
+  \item Indirect Memory Addressing (square brackets)
+    \subitem [EAX] access allo mem. [EBP + 0x10] access data on stack, [EAX + EBX *8] access and array 8bytes \dotfill 
+		\book{2}{32}
+  \item INetSim
+    \subitem /etc/inetsim/inetsim.conf
+      \subsubitem main conf, services emulate ports, HTTP response \dotfill 
+		\book{1}{119}
+    \subitem /var/lib/inetsim Data
+      \subsubitem data files provided by HTTP or SSL Cert \dotfill 
+		\book{1}{119}
+    \subitem /var/log/inetsim Logs
+      \subsubitem service.log details requests received, responses provided \dotfill 
+		\book{1}{119}
+    \subitem /var/log/inetsim/service.log Output
+      \subsubitem shows connection details, IOCs, insights \dotfill 
+		\book{1}{119}
+    \subitem DNS
+      \subsubitem inetsim.conf remove poundsign start-service dns, dns-default-ip to remnux. httpd stop to avoid conflicts \dotfill 
+		\book{1}{119}
+    \subitem Emulate HTTPS, SMTP,FTP,POP3,TFTP,IRC \dotfill 
+		\book{1}{119}
+    \subitem FTP \dotfill \book{1}{119}
+    \subitem IRC \dotfill \book{1}{119}
+    \subitem POP3 \dotfill \book{1}{119}
+    \subitem SMTP \dotfill \book{1}{119}
+    \subitem TFTP \dotfill \book{1}{119}
+  \item Inlined Functions
+    \subitem Body of function placed in block code that calls function. no extra overhead entering/exiting. String related function strlen strcmp \dotfill 
+		\book{2}{77}
+  \item Inlined Functions strlen example \dotfill 
+		\book{2}{78}
+  \item Instructions
+    \subitem Execution
+      \subsubitem fetch from mem, decode instruction perform action based on instruction, act on registers and mem locations \dotfill 
+		\book{2}{24}
+    \subitem Operand
+      \subsubitem Square Brackets - Brackets mean fetch data at the specified address MOV EAX , [0x410230]. Classed as direct addressing as de-referencing immediate value \dotfill 
+		\book{2}{32}
+    \subitem Operand addressing modes
+      \subsubitem Immediate value \dotfill \book{2}{23}
+      \subsubitem memory address used as operand \dotfill 
+		\book{2}{23}
+      \subsubitem Register \dotfill \book{2}{23}
+    \subitem Operand Implied (Implicit) by Instructions
+      \subsubitem SCASB - Scans memory EDI register points at value equal to AL register \dotfill 
+		\book{2}{23}
+      \subsubitem Stack Operations - move data to and from Extended Stack Pointer (ESP) \dotfill 
+		\book{2}{23}
+    \subitem Operand Layout
+      \subsubitem Destination First - Source Second \dotfill 
+		\book{2}{23}
+    \subitem Operands
+      \subsubitem Have 0 - 3 Operands, A register, Memory location, Immediate value \dotfill 
+		\book{2}{23}
+  \item Instructions have two components
+    \subitem Operation and Operand \dotfill \book{2}{23}
+  \item Intercepting IP Connections \dotfill \book{1}{127}
+  \item Intermodular Calls - API Calls \dotfill 
+		\book{4}{51-52}
+  \item Internet access Lab
+    \subitem Malicious Websites, exploit kits, C2, etc \dotfill 
+		\book{1}{18}
+  \item Intezer Analyze \dotfill \book{1}{13}
+  \item IP redirection \dotfill \book{1}{126}
+  \item iptables
+    \subitem accept-all-ips \dotfill \book{1}{126}
+    \subitem Linux Firewall, NAT intercept redirect network traffic \dotfill 
+		\book{1}{126}
+    \subitem set-static-ip \dotfill \book{1}{126}
+  \item IRC
+    \subitem Internet Relay Chat
+      \subsubitem Controlling malicious code \dotfill 
+		\book{2}{45}
+  \item IsDebuggerPresent \dotfill \book{5}{6}
+
+\indexspace
+\indexspace
+{\centerline{\textbf{\LARGE{J}}}}
+\indexspace
+
+  \item Javascript Deobfuscation rely on objects, methods, attributes \dotfill 
+		\book{4}{7}
+  \item JavaScript Detection if modified \dotfill 
+		\book{4}{18}
+  \item JavaScript What are they \dotfill \book{4}{4}
+  \item Jcc instructions
+    \subitem Conditional Jumps
+      \subsubitem Perform Jump if condition is met - JZ, JB, JE, JG, etc \dotfill 
+		\book{2}{42}
+  \item JMP instruction
+    \subitem directs execution to different code blocks depending on value of EAX \dotfill 
+		\book{2}{184}
+  \item JNE is equivlant to JNZ \dotfill \book{5}{7}
+  \item jq
+    \subitem JSON Parser \dotfill \book{1}{85}
+  \item js-beautify \dotfill \book{4}{5}, \book{4}{88}
+  \item JScript Micsoroft version of CScript differences \dotfill 
+		\book{4}{11}
+  \item Jump Example \dotfill \book{2}{43}
+  \item Jump instruction (JMP)directs execution to different code blocks depending on value of EAX \dotfill 
+		\book{2}{184}
+  \item Jump table \dotfill \book{2}{131}, \book{2}{184}
+  \item Jump Tables - Optimization Technique
+    \subitem list of address of each code block (an array) -   \dotfill 
+		\book{2}{131}
+  \item Jumps
+    \subitem Conditional
+      \subsubitem Branch to a new location in memory only after a condition is met. jcc and loop instructions \dotfill 
+		\book{2}{40}
+    \subitem Conditional - Multiple Instructions
+      \subsubitem Disadvantage, they modify values of destination operand. \dotfill 
+		\book{2}{41}
+    \subitem JNG Jump
+      \subsubitem ( a > 1 ) if a is greater than 1 (JNG jump if greater than) \dotfill 
+		\book{2}{124}
+    \subitem JNL Jump
+      \subsubitem if ( a < 4 ) = if a is less than 4 (JNL jump if not less than) \dotfill 
+		\book{2}{124}
+    \subitem Jump - If not below zero example(JZ / JNC)
+      \subsubitem JNC = CMP EAX, EDI, if EAX is larger than EDI size of buffer, buffer is too small and will error \dotfill 
+		\book{2}{128}
+    \subitem Jump - JNL
+      \subsubitem if ( a < 4 ) = if a is less than 4 (JNL jump if not less than) \dotfill 
+		\book{2}{124}
+    \subitem ump - JNG
+      \subsubitem ( a > 1 ) if a is greater than 1 (JNG jump if greater than) \dotfill 
+		\book{2}{124}
+    \subitem Unconditional
+      \subsubitem branch to a new location in memory, JMP, CALL, RET Instructions \dotfill 
+		\book{2}{40}
+
+\indexspace
+\indexspace
+{\centerline{\textbf{\LARGE{K}}}}
+\indexspace
+
+  \item KBDLLHOOKSTRUCT
+    \subitem How this function works \dotfill \book{2}{180}
+  \item KdDebuggerFlag \dotfill \book{5}{78}
+  \item Keylogger Capabilities \dotfill \book{2}{171}
+
+\indexspace
+\indexspace
+{\centerline{\textbf{\LARGE{L}}}}
+\indexspace
+
+  \item Linker \dotfill \book{2}{5}
+  \item Loader \dotfill \book{2}{5}
+  \item LoadLibrary Malicious Process \dotfill 
+		\book{4}{142}
+  \item Loops
+    \subitem Appear in Malware
+      \subsubitem Encrypt/Decrypt, C2, Port Scan, DDOS, Log Keys \dotfill 
+		\book{2}{108}
+    \subitem Common types
+      \subsubitem for loop (init, stop, update conditions) while loop (init is separate from stopping condition and update control variables in body of loop) do while loop (same as while but gets executed least once before condition) \dotfill 
+		\book{2}{112}
+    \subitem Do while (loop) \dotfill \book{2}{112}
+    \subitem five major components
+      \subsubitem Control Variable, Loop initialization, Loop body, Loop update, Stopping conditions \dotfill 
+		\book{2}{110}
+    \subitem For (loop) \dotfill \book{2}{112}
+    \subitem For (loop) example \dotfill \book{2}{113}
+    \subitem Loop Example - strlen \dotfill \book{2}{111}
+    \subitem While (loop) \dotfill \book{2}{112}
+    \subitem While (loop) example \dotfill \book{2}{114}
+  \item Loops - Exercise 2.5 \dotfill \book{2}{120}
+  \item Loops / Loopcc
+    \subitem Max jump range of 128 bytes, loopnz, ZF bit in flags register \dotfill 
+		\book{2}{109}
+  \item Loops to execute single code JZ JNZ JE \dotfill 
+		\book{2}{109}
+  \item lpStartAddress address of function target process run new thread \dotfill 
+		\book{4}{132}
+
+\indexspace
+\indexspace
+{\centerline{\textbf{\LARGE{M}}}}
+\indexspace
+
+  \item MAEC Malware Capabilities project \dotfill 
+		\book{1}{11}
+  \item Malicious Documents and Scripts \dotfill 
+		\book{1}{7}
+  \item Malicious VBA Macros \dotfill \book{3}{37}
+  \item Malicious Windows Executables \dotfill \book{1}{7}
+  \item Malware \dotfill \book{1}{5}
+    \subitem definition, design, explaination of malware \dotfill 
+		\book{1}{5}
+    \subitem malware is code used to perform malicious actions \dotfill 
+		\book{1}{5}
+    \subitem what is malware and malware analysis \dotfill 
+		\book{1}{5}
+  \item Malware analysis \dotfill \book{1}{5}
+    \subitem Fully automated
+      \subsubitem Detailed Reports, Registry, mutex values, network traffic, quickly assess \dotfill 
+		\book{1}{9}
+    \subitem Input
+      \subsubitem Verbal reports, Sus files, file/mem images, network logs, anomaly obs \dotfill 
+		\book{1}{10}
+    \subitem Interactive Behavior
+      \subsubitem Running program isolated lab to reveal behaviour  \dotfill 
+		\book{1}{9}
+    \subitem Manual Code \dotfill \book{1}{9}
+    \subitem Output
+      \subsubitem Malware Behaviour, Identification, Attacker Profile, IR Reccoms, Reports IOCs, Trends \dotfill 
+		\book{1}{10}
+    \subitem Results \dotfill \book{1}{10}
+    \subitem Stages
+      \subsubitem Manual, Interactive, Static, Fully Automated \dotfill 
+		\book{1}{9}
+    \subitem Static Analysis
+      \subsubitem Metadata, strings, structure, header data \dotfill 
+		\book{1}{9}
+  \item Malware Analysis Techniques \dotfill \book{1}{6}
+  \item Malware Analyst \dotfill \book{1}{8}
+  \item Malware Behavior Analysis Configuration Change
+    \subitem what change caused what new behavior \dotfill 
+		\book{1}{70}
+  \item Malware Behavioral Analysis \dotfill \book{1}{52}
+  \item Malware Hash Registry \dotfill \book{1}{13}
+  \item Malware lab \dotfill \book{1}{24-25}
+    \subitem Configuration \dotfill \book{1}{28}
+    \subitem Isolation
+      \subsubitem Bugs, Weakness, Exploit, Escape VM \dotfill 
+		\book{1}{28}
+    \subitem Network Isolation
+      \subsubitem Host-Only, or Stronger Separation Virtual Network - No Host \dotfill 
+		\book{1}{29}
+  \item Malware report \dotfill \book{1}{11}
+  \item MBC Malware Behavior Catalog \dotfill \book{1}{11}
+  \item Memory Address or Offset Example
+    \subitem 00401007, 008, 009 first column{2} \dotfill 13
+  \item Memory BreakPoints \dotfill \book{5}{156}
+  \item Memory Protection \dotfill \book{5}{157}
+  \item memset copies contents of shellcode to memory \dotfill 
+		\book{4}{92}
+  \item Metadata importance of saving headers, URLs, Last-Modified etc \dotfill 
+		\book{4}{15}
+  \item MetaDefender \dotfill \book{1}{13}
+  \item Misdirection \dotfill \book{5}{95}, \book{5}{138}
+  \item Most significant bit (MSB) \dotfill \book{2}{182}
+  \item MSB
+    \subitem Most significant bit \dotfill \book{2}{182}
+  \item mshta.exe Microsoft HTML Applications HTA files execute JS outside browser \dotfill 
+		\book{4}{77}
+  \item Mutant{1} \dotfill 15
+  \item Mutex \dotfill \book{1}{15}, \book{2}{143}
+  \item MZ
+    \subitem Windows Executable \dotfill \book{2}{142}
+
+\indexspace
+\indexspace
+{\centerline{\textbf{\LARGE{N}}}}
+\indexspace
+
+  \item NanoLocker \dotfill \book{5}{140}
+  \item Native API Calls \dotfill \book{4}{128}
+    \subitem NtAllocateVirtualMemory/ZwAllocateVirtualMemory \dotfill 
+		\book{4}{128}
+    \subitem NtCreateThreadEx/ZwCreateThreadEx \dotfill 
+		\book{4}{128}
+    \subitem NtopenProcess/ZwOpenProcess \dotfill 
+		\book{4}{128}
+    \subitem NtQuerySystemInformation \dotfill 
+		\book{4}{128}
+    \subitem NtWriteVirtualMemory/ZwWriteVirtualMemory \dotfill 
+		\book{4}{128}
+    \subitem RtlCreateUserThread \dotfill \book{4}{128}
+  \item nCode
+    \subitem CallNextHookEx - if zero \dotfill 
+		\book{2}{179}
+  \item Netcat \dotfill \book{3}{60}
+  \item netcat listener
+    \subitem sudo nc -l -p 3127 \dotfill \book{1}{126}
+  \item Network Sniffer \dotfill \book{3}{19}
+  \item NOP instruction does nothing \dotfill 
+		\book{5}{9-10}
+  \item NOP Padding shellcode 909090 hex \dotfill 
+		\book{3}{109}
+  \item nslookup \dotfill \book{1}{67}
+  \item NtGlobalFlag \dotfill \book{5}{13}
+    \subitem FLG_HEAP_ENABLE_FREE_CHECK(0x20) \dotfill 
+		\book{5}{13}
+    \subitem FLG_HEAP_ENABLE_TAIL_CHECK(0x10) \dotfill 
+		\book{5}{13}
+    \subitem FLG_HEAP_VALIDATE_PARAMETERS(0x40) \dotfill 
+		\book{5}{13}
+  \item NtQueryInformationProcess \dotfill \book{5}{40}
+  \item NTVDM (NT Virtual DOS Machine) \dotfill 
+		\book{2}{149}
+  \item numbers-to-string.py -j join \dotfill \book{3}{57}
+
+\indexspace
+\indexspace
+{\centerline{\textbf{\LARGE{O}}}}
+\indexspace
+
+  \item Obfuscation Techniques concealing encoded encrypted obfuscated \dotfill 
+		\book{4}{6}
+  \item Object Code \dotfill \book{2}{5}
+  \item object.js
+    \subitem document.write \dotfill \book{4}{8}
+    \subitem eval \dotfill \book{4}{8}
+    \subitem href location \dotfill \book{4}{8}
+  \item objects.js \dotfill \book{4}{8}
+  \item OEP Original Entry Point \dotfill \book{4}{39}
+  \item Office Documents
+    \subitem Macros have been disabled - Enable Content \dotfill 
+		\book{3}{40}
+    \subitem OLE2 - Compound Document File V2 CDFV2 \dotfill 
+		\book{3}{38}
+    \subitem OLE2 - Compound File Binary Format CFBF \dotfill 
+		\book{3}{38}
+    \subitem OLE2 - Object Linking and Embedding
+      \subsubitem Considered to be Legacy format. \dotfill 
+		\book{3}{38}
+    \subitem OLE2 - Structure Storage
+      \subsubitem defines how to treat a single file entity. \dotfill 
+		\book{3}{38}
+    \subitem Open Office XML OOXML \dotfill \book{3}{38}
+    \subitem VBA Macros
+      \subsubitem embedded macros in a file \dotfill 
+		\book{3}{37}
+    \subitem XML \dotfill \book{3}{38}
+  \item OLE2
+    \subitem  Macros \dotfill \book{3}{38}
+  \item oledump
+    \subitem -A parameter show Hex values and ASCII \dotfill 
+		\book{3}{79}
+    \subitem -S parameter extract Strings \dotfill 
+		\book{3}{87}
+    \subitem -d dump contents stream \dotfill \book{3}{88}
+    \subitem -i information data structure \dotfill 
+		\book{3}{78}
+    \subitem 791+62
+      \subsubitem Size os compiled code and size of compressed code \dotfill 
+		\book{3}{45}
+    \subitem c suffix compiled \dotfill \book{3}{79}
+    \subitem CDFV2 Compound Document Format \dotfill 
+		\book{3}{84}
+    \subitem Concealed,obfuscated URL inside Dim array1(12) 12 lines \dotfill 
+		\book{3}{48}
+    \subitem example VBA stomping \dotfill \book{3}{78}
+    \subitem grep
+      \subsubitem Extracts lines that start with a keyword in " \dotfill 
+		\book{3}{49}
+    \subitem Macro decoded using strings
+      \subsubitem Function DU(yI) array1 = Xf book{3} \dotfill 
+		50
+    \subitem nh = Split(Replace(pn(array1), Fw, "), zM)book{3} \dotfill 
+		50
+    \subitem numbers-to-string.py -j join \dotfill 
+		\book{3}{57}
+    \subitem OLE2
+      \subsubitem examining structure and contents of OLE2 files \dotfill 
+		\book{3}{45}
+    \subitem oledump.py particulars.doc -i
+      \subsubitem examine contents OLE2 in particulars.doc \dotfill 
+		\book{3}{45}
+    \subitem oledump.py particulars.doc -s a -v pipe grep -v ^' pipe more
+      \subsubitem -v to grep eliminate lines that match regex. ^ is start of line and matches ''  \dotfill 
+		\book{3}{47}
+    \subitem oledump.py particulars.doc -s a -v pipe more
+      \subsubitem -s a Extracts VBA Macros from ALL streams \dotfill 
+		\book{3}{46}
+    \subitem plugin_http_heuristics \dotfill \book{3}{71}
+    \subitem Public Const zM As String = -----book{3} \dotfill 
+		50
+    \subitem re-search.py -n str-u\
+      \subsubitem Extracts strings within the " \dotfill 
+		\book{3}{49}
+    \subitem regsvr32
+      \subsubitem Function U5 Macro \dotfill \book{3}{52}
+    \subitem s suffix source \dotfill \book{3}{79}
+    \subitem sed ss/====//g!Remove ==== separators \dotfill 
+		\book{3}{49}
+    \subitem sets.py join " \
+      \subsubitem Join lines into a single line \dotfill 
+		\book{3}{49}
+    \subitem SRP
+      \subsubitem contained cached compiled copy of the VBA Macro can reveal aftifacts from previous version \dotfill 
+		\book{3}{53}
+    \subitem StrReverse
+      \subsubitem Function U5 Macro \dotfill \book{3}{52}
+    \subitem unable to decompress \dotfill \book{3}{79}
+    \subitem Uppercase M
+      \subsubitem means Macro inside that object \dotfill 
+		\book{3}{45}
+    \subitem VBA Purging \dotfill \book{3}{85}
+  \item oledump.py
+    \subitem plugin_biff -x locate and examine XLM Macro \dotfill 
+		\book{3}{142}
+  \item olevba
+    \subitem -decode automate \dotfill \book{3}{142}
+    \subitem AutoOpen function example \dotfill 
+		\book{3}{44}
+    \subitem locate decode extract tool good for auto scanning files \dotfill 
+		\book{3}{43}
+    \subitem olevba particulars.doc > particulars.olevba \dotfill 
+		\book{3}{43}
+    \subitem risky capabilities
+      \subsubitem AutoOpen - runs when document is opened \dotfill 
+		\book{3}{43}
+      \subsubitem Call - call a DLL using XLM/XLF \dotfill 
+		\book{3}{43}
+      \subsubitem exec - run an executable file or command using XLM/XLF \dotfill 
+		\book{3}{43}
+      \subsubitem Hex Strings - Hex-encoded strings \dotfill 
+		\book{3}{43}
+      \subsubitem StrReverse - obfuscate strings -deobf \dotfill 
+		\book{3}{43}
+      \subsubitem URLDownloadToFileA - download files from internet \dotfill 
+		\book{3}{43}
+    \subitem VBA Stomping \dotfill \book{3}{77}
+  \item OllyDbg \dotfill \book{5}{77}
+  \item OllyDumpEx \dotfill \book{4}{54}
+    \subitem Get EIP as OEP 32bit \dotfill \book{4}{54}
+    \subitem Get RIP as OEP 64bit \dotfill \book{4}{54}
+    \subitem MEM_WRITE Characteristics Flags \dotfill 
+		\book{4}{55}
+    \subitem memory access violation error \dotfill 
+		\book{4}{55}
+  \item OllyDumpEx API code strings \dotfill \book{5}{107}
+  \item open file handle scanning \dotfill \book{3}{114}
+  \item Open Office XML OOXML
+    \subitem  4 letter extension \dotfill \book{3}{38}
+    \subitem  Macro follow OLE2 format \dotfill 
+		\book{3}{38}
+  \item Open Threat Exchange \dotfill \book{1}{13}, 
+		\book{1}{16}
+  \item OpenProcess API Call obtains handle existing process PID \dotfill 
+		\book{4}{133}
+  \item Operand =>
+    \subitem LEA R9=>local_628 - loading the address of local_628 into R9 \dotfill 
+		\book{2}{156}
+  \item OR Operator \dotfill \book{2}{37}
+  \item OS provide managed access for user space code
+    \subitem allocating memory requires mgmt of system ram \dotfill 
+		\book{2}{19}
+  \item OSINT \dotfill \book{1}{17}
+
+\indexspace
+\indexspace
+{\centerline{\textbf{\LARGE{P}}}}
+\indexspace
+
+  \item p-code \dotfill \book{3}{77}
+  \item p-code compressed and compiled \dotfill 
+		\book{3}{38}
+  \item P2P \dotfill \book{2}{45}
+  \item Packed Executable \dotfill \book{4}{38}
+    \subitem dumping file PE Header tweaked \dotfill 
+		\book{4}{39}
+    \subitem dumping process packed exe unpack in memory extraction \dotfill 
+		\book{4}{39}
+    \subitem Entry Point \dotfill \book{4}{39}
+    \subitem Import Address Table IAT \dotfill \book{4}{39}
+    \subitem OEP Original Entry Point \dotfill \book{4}{39}
+  \item Packers
+    \subitem AddressOfEntryPoint \dotfill \book{4}{24}
+    \subitem Armadillo \dotfill \book{4}{25}
+    \subitem Bytehist \dotfill \book{4}{26}
+    \subitem Detect It Easy \dotfill \book{4}{26}
+    \subitem Entry Point \dotfill \book{4}{24}
+    \subitem Exeinfo PE \dotfill \book{4}{26}
+    \subitem FSG \dotfill \book{4}{25}
+    \subitem How it Works \dotfill \book{4}{22}
+    \subitem PE Header Values \dotfill \book{4}{24}
+    \subitem PeStudio \dotfill \book{4}{26}
+    \subitem Sections \dotfill \book{4}{24}
+    \subitem Signs and how to identify them \dotfill 
+		\book{4}{26}
+    \subitem Themida \dotfill \book{4}{25}
+    \subitem UPX \dotfill \book{4}{25}
+    \subitem What is \dotfill \book{4}{22}
+  \item Packers Bytehist \dotfill \book{4}{28}
+    \subitem bottom region order of occurance Y-axis \dotfill 
+		\book{4}{28}
+    \subitem examine file byte value visual histogram \dotfill 
+		\book{4}{28}
+    \subitem holes in them file is packed \dotfill 
+		\book{4}{28}
+    \subitem Not Packed Less uniform byte values \dotfill 
+		\book{4}{28}
+    \subitem Packed more uniform byte values book{4} \dotfill 
+		28
+    \subitem top region bytes value 0 to FF X-axis \dotfill 
+		\book{4}{28}
+  \item Packers DetectItEasy diec commandline \dotfill 
+		\book{4}{29}
+  \item Packers Exeinfo PE GUI flagged Tampered File \dotfill 
+		\book{4}{29}
+  \item Packers PeStudio \dotfill \book{4}{27}
+    \subitem Entropy higher value more random contents \dotfill 
+		\book{4}{27}
+    \subitem Raw size space section occupy file disk \dotfill 
+		\book{4}{27}
+    \subitem Section names different to nonpacked .txt .data .rdata \dotfill 
+		\book{4}{27}
+    \subitem Virtual size Memory windows allocate section malware exec \dotfill 
+		\book{4}{27}
+  \item Page Memory Rights \dotfill \book{5}{161}
+  \item PAGE_EXECUTE_READWRITE VirtualAlloc 0x40 \dotfill 
+		\book{4}{92}
+  \item PassiveTotal \dotfill \book{1}{13}
+  \item Password Protected VBA Macro \dotfill \book{3}{65}
+  \item Patching \dotfill \book{5}{9}
+    \subitem Change JNE with JE \dotfill \book{5}{9}
+    \subitem NOP instruction does nothing \dotfill 
+		\book{5}{9-10}
+  \item Payload What Is \dotfill \book{3}{105}
+  \item pcode2code \dotfill \book{3}{81}
+  \item pcodedmp.py \dotfill \book{3}{79}
+  \item pcodedmp.py disassemble VBA p-code \dotfill 
+		\book{3}{80}
+  \item PDF
+    \subitem /Filter /FlateDecode
+      \subsubitem Stream - encoded contents - endstream \dotfill 
+		\book{3}{8}
+    \subitem AA
+      \subsubitem action automatically when pdf is open \dotfill 
+		\book{3}{4}
+    \subitem AcroForm
+      \subsubitem Execute embedded javascript \dotfill 
+		\book{3}{4}
+    \subitem Elements
+      \subsubitem header (version specs), objects (text, fonts, graphics, JS), xref (modify without rewriting file), trailer (metadata and file specs) \dotfill 
+		\book{3}{5}
+    \subitem EmbeddedFiles
+      \subsubitem Launching external or embedded programs \dotfill 
+		\book{3}{4}
+    \subitem Encode Streams
+      \subsubitem /FlateDecode stream encoded contents endstream \dotfill 
+		\book{3}{8}
+    \subitem header
+      \subsubitem version specs \dotfill \book{3}{5}
+    \subitem How it works
+      \subsubitem exploit vulns, ASCII keywords, JavaScript, Links,  \dotfill 
+		\book{3}{4}
+    \subitem Indirect Object References
+      \subsubitem /AA (AutoAction) /O (when file is opened) 43 0 R (Reference Object 43) \dotfill 
+		\book{3}{6}
+    \subitem Launch
+      \subsubitem Launching external or embedded programs \dotfill 
+		\book{3}{4}
+    \subitem Objects
+      \subsubitem reference each other and specify actions \dotfill 
+		\book{3}{6}
+    \subitem objects
+      \subsubitem text, fonts, graphics, JS \dotfill 
+		\book{3}{5}
+    \subitem OpenAction
+      \subsubitem action automatically when pdf is open \dotfill 
+		\book{3}{4}
+    \subitem Risky Keywords
+      \subsubitem /JS, /JavaScript, /AcroForm, /XFA, /Launch, /EmbeddedFiles, /OpenAction, /AA, /URI, /SubmitForm \dotfill 
+		\book{3}{4}
+    \subitem SubmitForm
+      \subsubitem interact with websites (URL) \dotfill 
+		\book{3}{4}
+    \subitem trailer
+      \subsubitem metadata and file specs \dotfill 
+		\book{3}{5}
+    \subitem URI
+      \subsubitem interact with websites (URL) \dotfill 
+		\book{3}{4}
+    \subitem XFA
+      \subsubitem Execute embedded javascript \dotfill 
+		\book{3}{4}
+    \subitem xref
+      \subsubitem modify without rewriting file \dotfill 
+		\book{3}{5}
+  \item PDF Password Encrypted \dotfill \book{3}{35}
+  \item PDF-Parser
+    \subitem -r Reference object to objects \dotfill 
+		\book{3}{15}
+    \subitem /Annots \dotfill \book{3}{16}
+    \subitem /Annots /Page
+      \subsubitem /Type /Page / Annots have interactive capabilities - popup notes, clickable links \dotfill 
+		\book{3}{16}
+    \subitem /DCTDecode
+      \subsubitem Stream contains Image can be decoded using /DCTDecode, standard for JPEG \dotfill 
+		\book{3}{13}
+    \subitem /Image within /XObject
+      \subsubitem /Type /XObject - /Subtype /Image (confirms contains image) \dotfill 
+		\book{3}{13}
+    \subitem /Page \dotfill \book{3}{16}
+    \subitem /URI
+      \subsubitem PDF type known as dictionary. key-value pairs \dotfill 
+		\book{3}{9}
+    \subitem /XForm
+      \subsubitem Images embedded into the PDF \dotfill 
+		\book{3}{12}
+    \subitem /XObject
+      \subsubitem Embedded Objects ie: image with clickable link \dotfill 
+		\book{3}{9}
+      \subsubitem Images embedded into the PDF \dotfill 
+		\book{3}{12}
+    \subitem /XObject embedded image \dotfill \book{3}{32}
+    \subitem  -f -w -d
+      \subsubitem dump stream to file \dotfill \book{3}{35}
+    \subitem export PDFPARSER_OPTIONS=-O
+      \subsubitem similar to -O parameter \dotfill 
+		\book{3}{30}
+    \subitem how it works \dotfill \book{3}{9}
+    \subitem Javascript /JS /AcroForm /XFA \dotfill 
+		\book{3}{35}
+    \subitem steel1.pdf  -o 6
+      \subsubitem Examine specific object number \dotfill 
+		\book{3}{13}
+    \subitem steel1.pdf -a
+      \subsubitem -a displays statistics about keywords in file \dotfill 
+		\book{3}{12}
+    \subitem steel1.pdf -k /URI
+      \subsubitem -k parameter shows values with associated KEY /URI (multiple URIs) \dotfill 
+		\book{3}{12}
+    \subitem steel1.pdf -o 6 -d object6.jpg
+      \subsubitem -o 6 select object 6 -d extract it and dump to file \dotfill 
+		\book{3}{14}
+    \subitem steel1.pdf -r 6
+      \subsubitem Follow the trail of references  \dotfill 
+		\book{3}{15}
+    \subitem steel2.pdf -O -a
+      \subsubitem scans inside /ObjStm objects to find more objects \dotfill 
+		\book{3}{30}
+    \subitem Streams
+      \subsubitem store data, scripts such as text, font definitions, images. encoded but decoded by applying /Filter \dotfill 
+		\book{3}{13}
+  \item PDFid \dotfill \book{3}{8}
+    \subitem -n
+      \subsubitem Only show non-zero keywords and outputs \dotfill 
+		\book{3}{29}
+    \subitem ObjStm Object Stream
+      \subsubitem Object stream that contains other object - indirect objects , stream compression filters \dotfill 
+		\book{3}{29}
+    \subitem OpenAction
+      \subsubitem automatically initiate risky actions  \dotfill 
+		\book{3}{8}
+    \subitem URI
+      \subsubitem clickable URLS \dotfill \book{3}{8}
+  \item pdftk
+    \subitem PDF Password Encrypted (decrypt) \dotfill 
+		\book{3}{35}
+  \item PE (Portable Executable) \dotfill \book{1}{48}
+  \item PE Tools \dotfill \book{4}{39}
+  \item pe\_unmapper \dotfill \book{5}{162}
+    \subitem /base parameter \dotfill \book{5}{162}
+    \subitem /in parameter \dotfill \book{5}{162}
+    \subitem /out parameter \dotfill \book{5}{162}
+  \item PEB NtGlobalFlag \dotfill \book{5}{13}
+  \item PEB Process Environment Block list of DLLs \dotfill 
+		\book{3}{113}
+  \item PECompact \dotfill \book{5}{95}
+  \item peframe
+    \subitem Static Analysis Display Attributes, hashes, indicators \dotfill 
+		\book{1}{47}
+  \item Persistence \dotfill \book{1}{44}
+  \item pestr
+    \subitem extracting strings, encoding -l unicode -a scan whole file \dotfill 
+		\book{1}{42}
+  \item PEStudio
+    \subitem Imports risky DLLs LoadLibrary \dotfill 
+		\book{5}{145}
+  \item PeStudio
+    \subitem (Resource executable)
+      \subsubitem dump MZ filebook{2} \dotfill 142
+    \subitem DLL file (Exports)
+      \subsubitem entry point (address of first instruction to execute), (Malware use) Ordinal alt method export/import functions, setting function \dotfill 
+		\book{2}{138}
+    \subitem Exports \dotfill \book{2}{138}
+    \subitem Static Analysis Display Attributes, hashes, indicators \dotfill 
+		\book{1}{45-46}
+    \subitem TLS \dotfill \book{5}{115}
+  \item Pev Toolkit
+    \subitem Tools examining Windows exe \dotfill 
+		\book{1}{43}
+  \item PF File Extension
+    \subitem Prefetched allow OS process start faster \dotfill 
+		\book{1}{60}
+  \item Pinpoint
+    \subitem wget on steroids \dotfill \book{3}{19}
+  \item Pointer
+    \subitem variable contains the address of location in memory - points to addresses in memory  \dotfill 
+		\book{2}{29}
+  \item Position-independent code (PIC) \dotfill 
+		\book{2}{150}
+  \item PowerShell \dotfill \book{3}{61}
+    \subitem -encoded -EncodedCommand -NoProfile \dotfill 
+		\book{3}{86}
+    \subitem -nop -NoProfile \dotfill \book{3}{86}
+    \subitem -w hidden -WindowsStyle hidden \dotfill 
+		\book{3}{86}
+    \subitem DollarSign s Variable saves command \dotfill 
+		\book{3}{89}
+    \subitem GzipStream decompress contents \dotfill 
+		\book{3}{89}
+    \subitem IEX Invoke-Expression execute decompressed commands \dotfill 
+		\book{3}{89}
+  \item PowerShell Integrated Scripting Environment ISE \dotfill 
+		\book{4}{93}
+  \item PowerShell ISE \dotfill \book{4}{93}
+    \subitem .ps1 file extension \dotfill \book{4}{95}
+    \subitem decode and save BIN file \dotfill \book{4}{96}
+    \subitem Toggle Breakpoint F9 \dotfill \book{4}{95}
+  \item ProcDOT
+    \subitem Correlate, Filter Visualize Procmon Logs PCAP \dotfill 
+		\book{1}{63-65}
+    \subitem Visualizes Process Monitor Logsbook{1} \dotfill 
+		52
+  \item Process Environment Block (PEB) \dotfill 
+		\book{5}{12}
+  \item Process Hacker
+    \subitem Detailed Process Explorer Tool \dotfill 
+		\book{1}{52}
+    \subitem handle
+      \subsubitem x64dbg, ProcHacker \dotfill \book{1}{95}
+    \subitem Process list, services, network connections \dotfill 
+		\book{1}{53}
+  \item Process hollowing \dotfill \book{5}{44}, 
+		\book{5}{59}
+  \item Process hollowing explaination \dotfill 
+		\book{5}{52}
+  \item Process Monitor \dotfill \book{1}{54}
+    \subitem Filter
+      \subsubitem Process Name, Process Identifier (PID) \dotfill 
+		\book{1}{61}
+    \subitem Process Interaction, Reg, File Sys, Network \dotfill 
+		\book{1}{52}
+    \subitem Process Tree \dotfill \book{4}{76}
+  \item PXE booting \dotfill \book{1}{33}
+
+\indexspace
+\indexspace
+{\centerline{\textbf{\LARGE{Q}}}}
+\indexspace
+
+  \item qpdf
+    \subitem PDF Password Encrypted (decrypt) \dotfill 
+		\book{3}{35}
+  \item Quttera \dotfill \book{1}{13}
+  \item Qword 64bits \dotfill \book{2}{28}
+
+\indexspace
+\indexspace
+{\centerline{\textbf{\LARGE{R}}}}
+\indexspace
+
+  \item Radare \dotfill \book{2}{6}
+  \item rar x extract contents of compressed file \dotfill 
+		\book{3}{118}
+  \item RCX RDX R8 R9 order \dotfill \book{2}{156}
+  \item RDTSC Read Time-Stamp Counter \dotfill \book{5}{14}
+  \item reg_export command line tool \dotfill \book{4}{86}
+  \item Register
+    \subitem Edit \dotfill \book{5}{9}
+  \item Register-based CPU \dotfill \book{2}{24}
+  \item Registers
+    \subitem (32bit Architecture)
+      \subsubitem EAX32/AX16/AH8/AL8 - ECX32/CX16/CH8/CL8 - EBX32/BX16/BH8/BL8 \dotfill 
+		\book{2}{27}
+    \subitem (32bit)(General Purpose)
+      \subsubitem EAX, ECX, EBP, ESP, ESI/EDI \dotfill 
+		\book{2}{25}
+    \subitem (32bit)(General Purpose) EAX
+      \subsubitem EAX, ECX, EBP, ESP, ESI/EDI \dotfill 
+		\book{2}{25}
+    \subitem (32bit)(General Purpose) EBP
+      \subsubitem Reference arguments passed into a function and local variables within a function \dotfill 
+		\book{2}{25}
+    \subitem (32bit)(General Purpose) ECX
+      \subsubitem Used as a counter (Loops) \dotfill 
+		\book{2}{25}
+    \subitem (32bit)(General Purpose) ESI/EDI
+      \subsubitem Memory transfer instructions \dotfill 
+		\book{2}{25}
+    \subitem (32bit)(General Purpose) ESP
+      \subsubitem Point to the last item on a stack and affected by stack-related functions \dotfill 
+		\book{2}{25}
+    \subitem (32bit)(Special Use)
+      \subsubitem hold flags and track program execution \dotfill 
+		\book{2}{26}
+    \subitem (32bit)(Special Use) EFLAGS
+      \subsubitem Outcome of computations and control operation of CPU \dotfill 
+		\book{2}{26}
+    \subitem (32bit)(Special Use) EIP/RIP
+      \subsubitem points to next instruction to execute - EIP 32bit / RIP 64bit \dotfill 
+		\book{2}{26}
+    \subitem (32bit)(Special Use) Segment
+      \subsubitem CS, DS, ES, FS, GS, SS \dotfill 
+		\book{2}{26}
+    \subitem (32bit)Types
+      \subsubitem General purpose ECX, particular use, or both \dotfill 
+		\book{2}{24}
+    \subitem (64bit Architecture)
+      \subsubitem RAX-EAX-AX-AH-AL \dotfill \book{2}{151}
+    \subitem (64bit Architecture) R9 Register
+      \subsubitem R9 - R9D - R9W - R9B \dotfill 
+		\book{2}{152}
+    \subitem (64bit) (General Purpose)
+      \subsubitem RAX, RBX, RCX, RDX and R8 through R15 \dotfill 
+		\book{2}{150}
+    \subitem (64bit) (Special Use) - RIP
+      \subsubitem RIP reference memory locations \dotfill 
+		\book{2}{150}
+    \subitem (64bit) - Calling convention (fastcall)
+      \subsubitem First four parameters passed RCX, RDX, R8, R9. Additional parameters stored on stack \dotfill 
+		\book{2}{150}
+    \subitem (64bit) RSP
+      \subsubitem SUB RSP, 0x658 used to make room on stack for local variables. RBP is not used \dotfill 
+		\book{2}{155}
+    \subitem 32bit compared to 64bit
+      \subsubitem InternetOpenUrlA - Windows API \dotfill 
+		\book{2}{160}
+    \subitem AH register 8 bit \dotfill \book{2}{27}
+    \subitem AL register 8 bit \dotfill \book{2}{27}
+    \subitem AX register 16 bit \dotfill \book{2}{27}
+    \subitem CPU on-chip memory locations \dotfill 
+		\book{2}{24}
+    \subitem EAX register 32 bit \dotfill \book{2}{27}
+  \item Registry \dotfill \book{1}{43}
+  \item Registry Export Powershell Command \dotfill 
+		\book{4}{86}
+  \item Regshot
+    \subitem Changes in File Sys and Registry \dotfill 
+		\book{1}{52}
+    \subitem Names of files to be renamed sys restart \dotfill 
+		\book{1}{59-60}
+    \subitem Snapshot Registry before after infection \dotfill 
+		\book{1}{55}
+  \item Resource Starvation
+    \subitem depriving malware from resources. \dotfill 
+		\book{1}{70}
+  \item Reversing Malicious Code \dotfill \book{2}{4}
+  \item RIP 64bit \dotfill \book{1}{93}
+  \item RIP-relative addressing \dotfill \book{2}{150}
+  \item RiskIQ \dotfill \book{1}{16}
+  \item ROL
+    \subitem Algorithms rotate right, rotate left \dotfill 
+		\book{1}{103}
+  \item RollBack Rx
+    \subitem Physical Snapshot/backup \dotfill \book{1}{33}
+  \item RootKits
+    \subitem Digitally signed trusted cert, TDL bypass \dotfill 
+		\book{2}{148}
+  \item ROR
+    \subitem Algorithms rotate right, rotate left \dotfill 
+		\book{1}{103}
+  \item ROT
+    \subitem Rotates alphabet chars by a certain number of positions (ROT13) \dotfill 
+		\book{1}{103}
+  \item RSP stack pointer instead of EBP \dotfill 
+		\book{2}{150}
+  \item RTF \dotfill \book{3}{100}
+    \subitem  Equation Editor Exploit \dotfill 
+		\book{3}{104}
+    \subitem braces { and } define groups \dotfill 
+		\book{3}{101}
+    \subitem control word \ character \dotfill 
+		\book{3}{101}
+    \subitem objects, binary contents, hexdec chars, \object \objdata \dotfill 
+		\book{3}{101}
+  \item RTF Rich Text File \dotfill \book{3}{100}
+  \item RTF Risks \dotfill \book{3}{100}
+    \subitem allow arbitrary files \dotfill \book{3}{100}
+    \subitem dont support macros \dotfill \book{3}{100}
+    \subitem extract embedded object percent temp percent execute \dotfill 
+		\book{3}{100}
+    \subitem Javascript / VBScript \dotfill \book{3}{100}
+    \subitem OLE1 Packager Object Server \dotfill 
+		\book{3}{100}
+    \subitem Vulnerability Exploit execute shellcode assembly instructions \dotfill 
+		\book{3}{100}
+  \item rtfdump.py \dotfill \book{3}{102}
+    \subitem -H parameter convert its contents from hex \dotfill 
+		\book{3}{109}
+    \subitem -O parameter show objects only \dotfill 
+		\book{3}{103}
+    \subitem -d parameter dump object \dotfill 
+		\book{3}{103}
+    \subitem -s parameter selects index \dotfill 
+		\book{3}{103}
+    \subitem > output to file \dotfill \book{3}{103}
+    \subitem 90 Hex NOP Padding shellcode \dotfill 
+		\book{3}{109}
+    \subitem embedded objects \dotfill \book{3}{102}
+    \subitem h= tag hex chars \dotfill \book{3}{109}
+    \subitem magic number \dotfill \book{3}{102}
+    \subitem nested groups \dotfill \book{3}{102}
+    \subitem Remainder Overlay content exist outside file \dotfill 
+		\book{3}{108}
+    \subitem u= tag unknown chars \dotfill \book{3}{108}
+  \item rtfobj similar to rtfdump.py \dotfill \book{3}{103}
+  \item runsc32 -f run file \dotfill \book{4}{101}
+  \item runsc32 attach file \dotfill \book{4}{102}
+  \item runsc32 execute shellcode \dotfill \book{3}{116}
+  \item runsc64 execute shellcode \dotfill \book{3}{116}
+
+\indexspace
+\indexspace
+{\centerline{\textbf{\LARGE{S}}}}
+\indexspace
+
+  \item Sandbox detection \dotfill \book{5}{62}, 
+		\book{5}{64, 65}, \book{5}{91}
+  \item Sandboxie \dotfill \book{5}{80}
+  \item sc32 long series hexdec shellcode \dotfill 
+		\book{4}{92}
+  \item scdbg Debug Shell \dotfill \book{4}{99}
+    \subitem .poke specify place bytes worth of data \dotfill 
+		\book{4}{100}
+    \subitem g command emulate exec of shellcode \dotfill 
+		\book{4}{100}
+    \subitem k command show current state of stack \dotfill 
+		\book{4}{100}
+  \item scdbg shellcode emulator \dotfill \book{3}{94}
+  \item scdbgc \dotfill \book{3}{94}
+    \subitem /f parameter select file \dotfill \book{3}{94}
+    \subitem /foff 3B specify where shellcode starts \dotfill 
+		\book{3}{114}
+    \subitem /fopen open handle to original RTF document \dotfill 
+		\book{3}{115}
+    \subitem /norw hide Read/Write events \dotfill 
+		\book{3}{115}
+    \subitem /s 1 no limits on steps \dotfill \book{3}{94}
+  \item Scout
+    \subitem wget on steroids \dotfill \book{3}{19}
+  \item Script Debuggers in Web Browser \dotfill 
+		\book{4}{18}
+  \item Script Deobfuscation specific value Objects.js file \dotfill 
+		\book{4}{15}
+  \item Scylla
+    \subitem IAT \dotfill \book{5}{163}
+  \item Scylla How to use  \dotfill \book{4}{40}
+  \item ScyllaHide \dotfill \book{5}{15}, \book{5}{28}
+  \item selector \dotfill \book{5}{126}
+  \item Self-defense
+    \subitem Detect VM, monitor, tools, confuse code, terminate, sleep \dotfill 
+		\book{1}{30-31}
+  \item self-modifying code
+    \subitem code-data duality - modify themselves during runtime \dotfill 
+		\book{2}{35}
+  \item self-referencing code
+    \subitem code-data duality - reference themselves during runtime \dotfill 
+		\book{2}{35}
+  \item setdllcharacteristics -d \dotfill \book{4}{37}
+  \item Shell.Application ShellExecute \dotfill \book{4}{9}
+  \item shellcode \dotfill \book{3}{93}
+    \subitem debug \dotfill \book{3}{93}
+    \subitem disassemble \dotfill \book{3}{93}
+    \subitem emulate execution \dotfill \book{3}{93}
+    \subitem emulation example \dotfill \book{3}{111}
+    \subitem extract strings \dotfill \book{3}{93}
+    \subitem Invoke API Calls DLLs \dotfill \book{3}{113}
+  \item ShellCode end of values 0x \dotfill \book{4}{93}
+  \item Shellcode sc32 \dotfill \book{4}{92}
+  \item Shellcode What Is Machine CPU Code \dotfill 
+		\book{3}{105}
+  \item Short circuit evaluation
+    \subitem skips a code block Boolean and fails or succeeds \dotfill 
+		\book{2}{123}
+  \item Signed binary math \dotfill \book{2}{182}
+  \item Simple expressions
+    \subitem single condition \dotfill \book{2}{123}
+  \item Small Code Base
+    \subitem Benefits
+      \subsubitem Increasing modularity, drawback additional overhead \dotfill 
+		\book{2}{77}
+  \item Snapshot
+    \subitem Save and restore state of VM \dotfill 
+		\book{1}{32}
+  \item Speakeasy \dotfill \book{1}{83}
+    \subitem API Call \dotfill \book{1}{83}
+    \subitem Handle \dotfill \book{1}{83}
+    \subitem Unsupported API
+      \subsubitem Unfimilar API Call CryptDeriveKey \dotfill 
+		\book{1}{84}
+  \item Special Use Registers \dotfill \book{2}{26}
+  \item SpiderMonkey js -f command  \dotfill \book{4}{88}
+  \item SpiderMonkey js Linux script interpreter \dotfill 
+		\book{4}{7}
+  \item Spoof HTTP Headers \dotfill \book{3}{19}
+  \item Square Brackets [EBP + 0x10]
+    \subitem Indirect Memory Addressing, [EBP + 0x10] access data on stack, \dotfill 
+		\book{2}{33}
+  \item SRE \goto Software Reversing Engineering \dotfill 
+		\comment{0}
+  \item SRP
+    \subitem Strings or oledump
+      \subsubitem look for ASCII and Unicode strings or oledump to extract \dotfill 
+		\book{3}{53}
+  \item SSH Daemon sshd start transfer files between VMs \dotfill 
+		\book{4}{87}
+  \item Stack
+    \subitem  example how it works \dotfill \book{2}{69-70}
+    \subitem ADD ESP 0x1c after CALL cleaning stack \dotfill 
+		\book{2}{92}
+    \subitem Cleanup \dotfill \book{5}{104}
+    \subitem How it works
+      \subsubitem LIFO, PUSH, POP, ESP Stack Point, EBP Frame Point (EBP -8 accessing local Variable, EBP +8 referencing parameter) Compilers pop value off stack \dotfill 
+		\book{2}{68-69}
+    \subitem Last In, First Out \dotfill \book{2}{68-69}
+  \item Stack Optimisation
+    \subitem PUSH subtracts 4 from ESP value at location - MOV place value on stack but does not subtract from ESP \dotfill 
+		\book{2}{76}
+  \item Stack String \dotfill \book{5}{21}
+  \item Stack String \goto String,stack \dotfill 
+		\comment{0}
+  \item Standalone Script Interpreter \dotfill \book{4}{7}
+    \subitem CScript \dotfill \book{4}{7}
+    \subitem SpiderMonkey js \dotfill \book{4}{7}
+  \item Static Analysis Tools
+    \subitem PeStudio,strings, CFF, peframe, DIE \dotfill 
+		\book{1}{34}
+  \item Static properties
+    \subitem Analysis \dotfill \book{1}{34}
+    \subitem file/sect hash, packer, embedded, imp/exp, strings \dotfill 
+		\book{1}{42}
+  \item strace (Strace-for-NT) Tool
+    \subitem monitors and analyses system calls \dotfill 
+		\book{2}{19}
+  \item strdeob.pl \dotfill \book{5}{23}
+  \item String \dotfill \book{2}{34}
+    \subitem Stack \dotfill \book{5}{21}
+  \item String References \dotfill \book{4}{51-52}
+  \item Strings \dotfill \book{1}{42-43}
+  \item strlen
+    \subitem analysis example \dotfill \book{2}{111}
+  \item strlen example \dotfill \book{2}{78}
+  \item Structured Exception Handling (SEH) \dotfill 
+		\book{5}{97}
+    \subitem Frame-Based \dotfill \book{5}{98}
+    \subitem SEH Chain \dotfill \book{5}{98}
+  \item Switch Statement - C to assembly \dotfill 
+		\book{2}{132}
+  \item Switch Statements - How it works
+    \subitem enables one of many code blocks to be executed based on integer value of a variable. code blocks terminate break statement \dotfill 
+		\book{2}{130}
+  \item Symbolic Constant
+    \subitem hex representation of the value PUSH 0x80000001 Set Equate HKEY_Current_User \dotfill 
+		\book{2}{36}
+  \item Symbolic Constants
+    \subitem Visual Studio SDK
+      \subsubitem Load WinInet.h header file \dotfill 
+		\book{2}{49}
+  \item SysAnalyzer \dotfill \book{5}{80}
+  \item Systeminternals tool System Monitor
+    \subitem sysmon monitors system call register and files \dotfill 
+		\book{2}{19}
+
+\indexspace
+\indexspace
+{\centerline{\textbf{\LARGE{T}}}}
+\indexspace
+
+  \item TcpLogView what is \dotfill \book{1}{52}
+  \item TDL RootKit
+    \subitem Digitally signed trusted cert, TDL bypass \dotfill 
+		\book{2}{148}
+  \item Thread Information Block (TIB) \dotfill 
+		\book{5}{98}
+  \item Thread Local Storage (TLS) \dotfill \book{5}{114}
+  \item ThreatAnalyzer \dotfill \book{5}{80}
+  \item Thug
+    \subitem client-side JavaScript \dotfill \book{3}{19}
+    \subitem Emulating browser \dotfill \book{3}{19}
+    \subitem Honeyclient \dotfill \book{3}{19}
+    \subitem honeyclient , mimic a web browser, executing javascript, emulating web browser \dotfill 
+		\book{3}{19}
+  \item TIB Thread Information Block currently running thread \dotfill 
+		\book{3}{113}
+  \item Tinba \dotfill \book{5}{64}
+  \item TOR
+    \subitem Adversaries can track exit nodes \dotfill 
+		\book{1}{19}
+  \item TOR Socks
+    \subitem utility for tunneling SOCKs Traffic through TOR \dotfill 
+		\book{1}{19}
+  \item tr -d delete null characters -d delete specific characters  \dotfill 
+		\book{4}{88}
+  \item Transfer Files between Virtual Machines \dotfill 
+		\book{4}{87}
+  \item translate.py used to decode XOR Strings \dotfill 
+		\book{3}{93}
+  \item TrickBot \dotfill \book{5}{164}
+  \item trid \dotfill \book{3}{39}
+
+\indexspace
+\indexspace
+{\centerline{\textbf{\LARGE{U}}}}
+\indexspace
+
+  \item Unpacker Scripts x64dbg Repo specific versions of packers \dotfill 
+		\book{4}{34}
+  \item Unpacker Tools \dotfill \book{4}{39}
+    \subitem Imports Fixer \dotfill \book{4}{39}
+    \subitem PE Tools \dotfill \book{4}{39}
+    \subitem Scylla fixes PE Header rebuilding IAT \dotfill 
+		\book{4}{39-40}
+  \item Unpacker Tools Automatic \dotfill \book{4}{34}
+    \subitem Ether \dotfill \book{4}{34}
+    \subitem UnPacMe \dotfill \book{4}{34}
+  \item Unpacking \dotfill \book{5}{144}
+  \item Unsigned binary math \dotfill \book{2}{182}
+  \item Upatre \dotfill \book{5}{64}
+  \item UPX Packer \dotfill \book{4}{33}
+    \subitem -d decompress \dotfill \book{4}{33}
+    \subitem modified/hacked/protected mangled file prevent decompress \dotfill 
+		\book{4}{33}
+  \item UPX Unpacker Debugger OEP lots of zeros JMP is end \dotfill 
+		\book{4}{48}
+  \item URLDownloadtoFileA Windows API call download file urlmon \dotfill 
+		\book{3}{138}
+  \item urlscana.io \dotfill \book{1}{13}
+  \item UTF-16 \dotfill \book{3}{89}
+
+\indexspace
+\indexspace
+{\centerline{\textbf{\LARGE{V}}}}
+\indexspace
+
+  \item Variable
+    \subitem Access Restrictions
+      \subsubitem enforced by the compiler not the CPU \dotfill 
+		\book{2}{54}
+    \subitem Global
+      \subsubitem Used anywhere and referenced using an address \dotfill 
+		\book{2}{54}
+    \subitem Local
+      \subsubitem Variable accessible by function that allocates it. Function exits, code free to be reused \dotfill 
+		\book{2}{54}
+    \subitem Represents some piece of information (code or data) without knowing actual contents (local_ac0) \dotfill 
+		\book{2}{54}
+    \subitem Static
+      \subsubitem Used within function allocates it, cannot be reused, not referenced in Stack \dotfill 
+		\book{2}{54}
+  \item Variable Types
+    \subitem Local, Global, Static \dotfill \book{2}{54}
+  \item Variables and Arguments Local Tab \dotfill 
+		\book{5}{151}
+  \item Varible pr saving pointer to new memory segment \dotfill 
+		\book{4}{92}
+  \item VBA Debugging \dotfill \book{3}{72}
+    \subitem Debug.Assert False \dotfill \book{3}{73}
+  \item VBA Emulation \dotfill \book{3}{55}
+  \item VBA Macro Password Protected \dotfill \book{3}{37}
+  \item VBA Purging removes p-code \dotfill \book{3}{85}
+  \item VBA Stomping \dotfill \book{3}{77}
+  \item VBA Stomping removes source code  \dotfill 
+		\book{3}{85}
+  \item VBA Tampering \dotfill \book{3}{78}
+  \item ViperMonkey \dotfill \book{3}{55}
+  \item VirSCAN \dotfill \book{1}{13}
+  \item virtual-key codes \dotfill \book{2}{179}
+  \item VirtualAlloc \dotfill \book{4}{111}
+    \subitem Malware unpacking calling function extract memory \dotfill 
+		\book{4}{111}
+    \subitem memory allocated auto init zero \dotfill 
+		\book{4}{111}
+  \item VirtualAlloc 0x40 PAGE_EXECURE READWRITE \dotfill 
+		\book{4}{92}
+  \item VirtualAlloc allocate new memory for shellcode \dotfill 
+		\book{4}{92}
+  \item VirtualAlloc Definition reserves commits changes state \dotfill 
+		\book{4}{111}
+  \item VirtualAllocEx + WriteProcessMemory = Code Injection Pattern \dotfill 
+		\book{5}{50}
+  \item VirtualAllocEx allocate mem inside process inject code or data \dotfill 
+		\book{4}{111}
+  \item Virtualization
+    \subitem Emulates hardware to VM and software to network within host \dotfill 
+		\book{1}{26}
+  \item Virtualization detection \dotfill \book{5}{63}
+  \item VirusTotal \dotfill \book{1}{13, 14}
+  \item vmonkey \dotfill \book{3}{55}
+  \item VPN
+    \subitem OpenVPN, WireGuard, AlgoVPN \dotfill 
+		\book{1}{19}
+  \item Vulnerability What Is \dotfill \book{3}{105}
+  \item vURL \dotfill \book{1}{13}
+
+\indexspace
+\indexspace
+{\centerline{\textbf{\LARGE{W}}}}
+\indexspace
+
+  \item Web Proxy \dotfill \book{3}{19}
+  \item Websites - Ways to investigate \dotfill 
+		\book{3}{19}
+  \item wget
+    \subitem ~/.wgetrc
+      \subsubitem wget config files to spoof HTTP headers \dotfill 
+		\book{3}{19}
+    \subitem on steriods \dotfill \book{3}{19}
+    \subitem same as curl, used to download files using CLI \dotfill 
+		\book{3}{19}
+  \item WH\_MOUSE\_LL 0x0E \dotfill \book{5}{68}
+  \item WH_CBT \dotfill \book{2}{175}
+  \item WH_KEYBOARD \dotfill \book{2}{175}
+  \item WH_KEYBOARD_LL Symbolic Constant 0D - Dec 13 \dotfill 
+		\book{2}{175}
+  \item WinDbg \dotfill \book{5}{80}
+    \subitem ScyllaHide \dotfill \book{5}{15}
+    \subitem Windows Debugger \dotfill \book{1}{80}
+  \item windbg \dotfill \book{4}{48}
+    \subitem API Calls interactions with its environment DLLs \dotfill 
+		\book{4}{68}
+    \subitem Breakpoint \dotfill \book{4}{49}
+    \subitem Call Stack \dotfill \book{4}{108}
+    \subitem cleardb command clear all breakpoints \dotfill 
+		\book{4}{64}
+    \subitem database files c-progfiles-x64dbg-x32-db \dotfill 
+		\book{4}{64}
+    \subitem database files c-progfiles-x64dbg-x64-db \dotfill 
+		\book{4}{64}
+    \subitem Disable DynamicBase before Debugging \dotfill 
+		\book{4}{47}
+    \subitem Dump \dotfill \book{5}{31}
+    \subitem Dump lpBuffer \dotfill \book{5}{55}
+    \subitem EAX register contain VirtualAlloc Unpacked Code Dump \dotfill 
+		\book{4}{114}
+    \subitem Execute till return \dotfill \book{4}{113}
+    \subitem Follow in Memory Map \dotfill \book{5}{56}
+    \subitem Follow To \dotfill \book{4}{108}
+    \subitem hardware breakpoint likely to remain during runtime \dotfill 
+		\book{4}{69}
+    \subitem Ignore Exception \dotfill \book{5}{101}
+    \subitem Memory Map \dotfill \book{4}{65}
+    \subitem Memory Map E Flag - Execute code \dotfill 
+		\book{4}{65}
+    \subitem Save Patch \dotfill \book{5}{11}
+    \subitem Scylla Fix IAT Table AFTER OllyDumpEX Process - Fix Dump \dotfill 
+		\book{4}{58}
+    \subitem SEH \dotfill \book{5}{99}
+    \subitem Set breakpoints in API Calls \dotfill 
+		\book{4}{63}
+    \subitem SetBPX advapi32.RegOpenKeyExA \dotfill 
+		\book{4}{106}
+    \subitem SetBPX RtlDecompressBuffer conceal the string \dotfill 
+		\book{5}{30}
+    \subitem software breakpoint F2 Toggle can be ignored, modifying program \dotfill 
+		\book{4}{69}
+    \subitem Step into \dotfill \book{4}{50}
+    \subitem Step over \dotfill \book{4}{50}
+    \subitem TLS \dotfill \book{5}{119}
+    \subitem Unpacked Code Dump - CFF Explorer edit Entry Point PE Header \dotfill 
+		\book{4}{53}
+    \subitem Unpacked Code Dump - Scylla \dotfill 
+		\book{4}{53}
+    \subitem Unpacked Code Dump Plugin - OllyDumpEx \dotfill 
+		\book{4}{53}
+    \subitem Unpacked Code Intermodular Calls - API Calls \dotfill 
+		\book{4}{51-52}
+    \subitem Unpacked Code String References \dotfill 
+		\book{4}{51-52}
+    \subitem xAnalyzer \dotfill \book{5}{151}
+  \item Windows API accept arguments using flags
+    \subitem combined symbolic constants, binary or operator \dotfill 
+		\book{2}{37}
+  \item Windows API Calls \dotfill \book{5}{12}, 
+		\book{4}{127}
+    \subitem (GetKeyState)(GetAsyncKeyState)(SetWindowsHookEx)
+      \subsubitem Two Common Methods for collecting keystrokes \dotfill 
+		\book{2}{171}
+    \subitem CheckRemoteDebuggerPresent \dotfill 
+		\book{5}{12}
+    \subitem CloseClipboard
+      \subsubitem closes the clipboard \dotfill 
+		\book{2}{144}
+    \subitem CreateProcess \dotfill \book{5}{52}
+    \subitem CreateRemoteThread \dotfill \book{4}{127}
+    \subitem CreateToolHelp32Snapshot \dotfill \book{5}{83}
+    \subitem CreateToolHelp32Snapshot get listing of running processes \dotfill 
+		\book{4}{127}
+    \subitem CryptDecrypt
+      \subsubitem places decrypted data into buffer whose address passed to function name pbData \dotfill 
+		\book{1}{99}
+    \subitem CryptDeriveKey
+      \subsubitem Windows Cryptographic capabilities \dotfill 
+		\book{1}{46}
+    \subitem CryptEncrypt
+      \subsubitem API Call Decrypts or Encrypts. \dotfill 
+		\book{1}{97}
+    \subitem EnumProcess \dotfill \book{4}{127}
+    \subitem GetAsyncKeyState
+      \subsubitem How the function works - KBDLLHOOKSTRUCT \dotfill 
+		\book{2}{180}
+      \subsubitem key is currently down or up, was pressed, last call to GetAsyncKeyState \dotfill 
+		\book{2}{144}
+    \subitem GetClipboardData
+      \subsubitem gathers data from clipboard, usernames,passwords and other data \dotfill 
+		\book{2}{144}
+    \subitem GetKeyState
+      \subsubitem retrieves status of specified key \dotfill 
+		\book{2}{144}
+    \subitem GetProcAddress
+      \subsubitem hModule, lpProcName \dotfill \book{5}{51}
+    \subitem GetThreadContext \dotfill \book{5}{52}
+    \subitem GetWindowText
+      \subsubitem obtains text of windows title bar combined with keystate APIs, keys logged and in what window \dotfill 
+		\book{2}{144}
+    \subitem InternetOpenUrlA
+      \subsubitem 64bit RCX, RDX, R8, R9 detailed \dotfill 
+		\book{2}{167}
+    \subitem IsDebuggerPresent \dotfill \book{5}{6}
+    \subitem LoadLibrary \dotfill \book{4}{127}
+    \subitem LoadLibraryW loads designated DLL \dotfill 
+		\book{5}{51}
+    \subitem NtGetContextThread \dotfill \book{5}{52}
+    \subitem NtQueryInformationProcess \dotfill 
+		\book{5}{12}
+    \subitem NtSetThreadContext \dotfill \book{5}{52}
+    \subitem NtUnmapViewofSection/ZwUnmapViewofSection \dotfill 
+		\book{5}{52}
+    \subitem OpenClipboard
+      \subsubitem access to clipboard and locks access \dotfill 
+		\book{2}{144}
+    \subitem OpenProcess \dotfill \book{4}{127}
+    \subitem OutputDebugPresent \dotfill \book{5}{12}
+    \subitem OutputDebugString \dotfill \book{5}{12}
+    \subitem Process32First \dotfill \book{5}{83}
+    \subitem Process32Next \dotfill \book{5}{83}
+    \subitem ProcessFirst \dotfill \book{4}{127}
+    \subitem ProcessNext \dotfill \book{4}{127}
+    \subitem RegSetValueExA
+      \subsubitem Capability to set registry values \dotfill 
+		\book{1}{46}
+    \subitem ResumeThread \dotfill \book{5}{52}
+    \subitem SetThreadContext \dotfill \book{5}{52}
+    \subitem SetWindowsHookEx
+      \subsubitem used to install hook procedure, args to function type messages, mouse events, keyboard \dotfill 
+		\book{2}{173}
+    \subitem SetWindowsHookEx Arguments
+      \subsubitem idHook, lpfn, hMod, dwThreadId \dotfill 
+		\book{2}{175}
+    \subitem VirtualAllocEx \dotfill \book{5}{52}, 
+		\book{4}{127}
+    \subitem VirtualAllocEx 0x40 flProtect P_E_RW \dotfill 
+		\book{5}{50}
+    \subitem VirtualProtect change permissions Injection/unpacking \dotfill 
+		\book{5}{152}
+    \subitem WriteProcessMemory \dotfill \book{5}{52}, 
+		\book{4}{127}
+    \subitem WriteProcessMemory lpBuffer parameter \dotfill 
+		\book{5}{53}
+    \subitem ZwQueryInformationProcess \dotfill 
+		\book{5}{12}
+  \item Windows API Calls -ReadFile
+    \subitem Kernel32.dll read date from I/O device \dotfill 
+		\book{1}{91}
+  \item Windows API Documentation \dotfill \book{2}{20}
+    \subitem A ANSI 8 bit character \dotfill \book{2}{20}
+    \subitem Ex Extended update function \dotfill 
+		\book{2}{20}
+    \subitem Inputs - Parameters \dotfill \book{2}{20}
+    \subitem Outputs - Return Value \dotfill \book{2}{20}
+    \subitem Purpose \dotfill \book{2}{20}
+    \subitem W Wide 16 bit charactor 2 bytes UTF-16 \dotfill 
+		\book{2}{20}
+  \item Windows Hooks
+    \subitem Hooking Procedures
+      \subsubitem used to monitor events - mouse movements, key presses, window interactions \dotfill 
+		\book{2}{173}
+  \item Windows Loader fixup \dotfill \book{2}{150}
+  \item Windows Virtual PC \dotfill \book{5}{80}
+  \item WinSCP Windows Tools transfer files between VMs \dotfill 
+		\book{4}{87}
+  \item WINWORD.EXE \dotfill \book{3}{117}
+  \item Wireshark
+    \subitem DNS Noise
+      \subsubitem microsoft.com \dotfill \book{1}{66}
+    \subitem DNS query
+      \subsubitem Log example \dotfill \book{1}{66}
+    \subitem GET Request
+      \subsubitem Request server to provide website or file \dotfill 
+		\book{1}{73}
+    \subitem HTTP Connection Details
+      \subsubitem HTTP GET Request via httpd and accept-all-ips \dotfill 
+		\book{1}{129}
+    \subitem RST ACK
+      \subsubitem Packet indicating connection not established \dotfill 
+		\book{1}{66}
+    \subitem Sniffing Network Traffic and how to start capture \dotfill 
+		\book{1}{56}
+    \subitem Sniffs Captures Network Traffic \dotfill 
+		\book{1}{52}
+    \subitem TCP Stream
+      \subsubitem Shows entire traffic capture \dotfill 
+		\book{1}{73}
+  \item WM\_LBUTTONDOWN 0x201 \dotfill \book{5}{70}
+  \item WM\_LBUTTONUP 0x202 \dotfill \book{5}{70}
+  \item WM\_MOUSEMOVE 0x200 \dotfill \book{5}{69}
+  \item wmiprvse.exe Windows Management Instrumentation WMI Commands \dotfill 
+		\book{4}{77}
+  \item Word 16bits \dotfill \book{2}{28}
+  \item WOW64 Subsystem
+    \subitem Windows on Windows, NTVDM, 32bit DLLs %SystemRoot%\Syswow64, Wow6432Node registry \dotfill 
+		\book{2}{149}
+  \item WPE Pro \dotfill \book{5}{80}
+  \item WScript.Shell implements Methods CreateShortcut \dotfill 
+		\book{4}{9}
+
+\indexspace
+\indexspace
+{\centerline{\textbf{\LARGE{X}}}}
+\indexspace
+
+  \item x32dbg
+    \subitem EIP pointer
+      \subsubitem 32bit Address of the current instruction \dotfill 
+		\book{1}{93}
+  \item x64dbg
+    \subitem Breakpoints
+      \subsubitem Set Breakpoints interrupt execution of program \dotfill 
+		\book{1}{90}
+    \subitem Call Operand
+      \subsubitem Functions invoked in assembly \dotfill 
+		\book{1}{97}
+    \subitem Call Stack
+      \subsubitem path of nested function in reverse chrono order program executed before pausing \dotfill 
+		\book{1}{96}
+    \subitem functions
+      \subsubitem hexdec, relative addr, offsets. \dotfill 
+		\book{1}{89}
+    \subitem RIP pointer
+      \subsubitem 64bit Address of the current instruction \dotfill 
+		\book{1}{93}
+    \subitem Run to user code
+      \subsubitem Finished executing the breakpoint to see what happens. \dotfill 
+		\book{1}{96}
+    \subitem SetBPX, bpx, bp
+      \subsubitem Set Breakpoint command \dotfill 
+		\book{1}{92}
+    \subitem Single Step
+      \subsubitem One instruction at a time \dotfill 
+		\book{1}{90}
+    \subitem Static and Dynamic Code Analysis \dotfill 
+		\book{1}{89}
+  \item xAnalyzer Locals Tab \dotfill \book{5}{151}
+  \item XLM Function FORMULA.FILL places result into cell comma \dotfill 
+		\book{3}{129}
+  \item XLM Macros \dotfill \book{3}{125}
+    \subitem macro execution xmldump.py \dotfill 
+		\book{3}{126}
+    \subitem macro execution zipdump.py \dotfill 
+		\book{3}{126}
+    \subitem obfuscation techniques Value \dotfill 
+		\book{3}{131}
+    \subitem xl/_rels/workbook.xml.rels mapping ID and xml file sheets starting point \dotfill 
+		\book{3}{127}
+    \subitem xl/sharedStrings.xml String Table Obfuscation \dotfill 
+		\book{3}{132}
+    \subitem xl/workbook.xml sheets starting point \dotfill 
+		\book{3}{126}
+  \item XLMMacroDeobfuscator automated analysis \dotfill 
+		\book{3}{142}
+  \item XLSM Forumla \dotfill \book{3}{130}
+  \item XLSM Reference \dotfill \book{3}{130}
+  \item XLSM Tags c - Cell \dotfill \book{3}{128}
+  \item XLSM Tags f - Formula \dotfill \book{3}{128}
+  \item XML \dotfill \book{3}{38}
+  \item xmldump pretty \dotfill \book{3}{54}
+  \item xmldump.py
+    \subitem <v>17</v> 17th string xl/sharedStrings.xml \dotfill 
+		\book{3}{132}
+    \subitem celltext \dotfill \book{3}{129}
+    \subitem grep -A2 two lines before and after \dotfill 
+		\book{3}{132}
+    \subitem r=cell number reference cell number \dotfill 
+		\book{3}{132}
+    \subitem t=s string stored in table of shared strings \dotfill 
+		\book{3}{132}
+  \item XOR
+    \subitem Change each char with 1-byte key value (5b) \dotfill 
+		\book{1}{103}
+    \subitem Exclusive OR
+      \subsubitem Only true (nonzero) if two operands differ. XOR EDI EDI = 0 \dotfill 
+		\book{2}{49}
+  \item XOR = ^ in bash command \dotfill \book{3}{93}
+  \item XOR Obfuscation \dotfill \book{5}{117}
+  \item xor-kpa.py{3} \dotfill 69, 70
+  \item XORI - XOR{3} \dotfill 67
+  \item XORSearch \dotfill \book{5}{16-17}
+    \subitem -i parameter case insensitive search \dotfill 
+		\book{5}{17}
+    \subitem -s parameter generate file decode bytes with key and alg \dotfill 
+		\book{5}{17}
+    \subitem How to use \dotfill \book{5}{17}
+  \item xorsearch \dotfill \book{3}{111}
+    \subitem -W parameter shellcode patterns \dotfill 
+		\book{3}{111}
+    \subitem -d 3 parameter avoid applying ROT transformation FPs \dotfill 
+		\book{3}{111}
+  \item xorsearch search file string encoded \dotfill 
+		\book{3}{111}
+  \item xxd \dotfill \book{1}{75}
+  \item xxd decode hex to ASCII
+    \subitem xxd -r -p filename.hex \dotfill \book{1}{73}
+  \item xxd hex editor tool \dotfill \book{4}{88}
+
+\indexspace
+\indexspace
+{\centerline{\textbf{\LARGE{Y}}}}
+\indexspace
+
+  \item yara-rules \dotfill \book{3}{95}
+  \item Yotalhash \dotfill \book{1}{13}
+
+\indexspace
+\indexspace
+{\centerline{\textbf{\LARGE{Z}}}}
+\indexspace
+
+  \item zipdump
+    \subitem Extracting individual files \dotfill 
+		\book{3}{41}
+    \subitem particulars.doc -s 9 -d pip xmldump.py pretty pipe more \dotfill 
+		\book{3}{54}
+    \subitem xmldump pretty \dotfill \book{3}{54}
+    \subitem zipdump.py particulars.doc \dotfill 
+		\book{3}{41}
+    \subitem zipdump.py particulars.doc -s 5 -d > image1.jpg
+      \subsubitem -s specify object with file -d dump the file > filename \dotfill 
+		\book{3}{41}
+  \item zipdump.py -j parameter xmldump.py -j JSON format automatic analysis \dotfill 
+		\book{3}{134}
+
+\end{theindex}
